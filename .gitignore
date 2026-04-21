@@ -8,9 +8,13 @@
 /Roms/**
 !/Roms/.gitkeep
 
-# Tico ROMs and system BIOS
-tico/roms/
-tico/system/
+# Tico ROMs and system BIOS — keep per-system folder structure, exclude files.
+# The .gitkeep files preserve the empty subfolders so customers know where
+# to drop their own ROMs and BIOS for each console.
+/tico/roms/**
+!/tico/roms/**/.gitkeep
+/tico/system/**
+!/tico/system/**/.gitkeep
 
 # Game bundles
 AAA-NSPS/

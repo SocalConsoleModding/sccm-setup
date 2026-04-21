@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.1.0 R3",
+  "setup_version": "FW22.1.0 R5",
   "target_firmware": "22.1.0",
-  "revision": 3,
-  "generated_at": "2026-04-21T16:04:20+00:00",
+  "revision": 5,
+  "generated_at": "2026-04-21T21:39:39+00:00",
   "release_note": "",
   "apps": [
     {
@@ -144,6 +144,20 @@
       "repo_url": "https://github.com/luketanti/CyberFoil"
     },
     {
+      "id": "dbi",
+      "name": "DBI",
+      "repo": "rashevskyv/dbi",
+      "category": "nro",
+      "version": "",
+      "release_date": "",
+      "files": [
+        "switch/DBI_EN/DBI.874.en.nro",
+        "switch/DBI_EN/dbi.config"
+      ],
+      "size_bytes": 9708218,
+      "repo_url": "https://github.com/rashevskyv/dbi"
+    },
+    {
       "id": "edizon",
       "name": "EdiZon",
       "repo": "WerWolv/EdiZon",
@@ -259,6 +273,33 @@
       ],
       "size_bytes": 9468448,
       "repo_url": "https://github.com/suchmememanyskill/themezer-nx"
+    },
+    {
+      "id": "tico",
+      "name": "Tico",
+      "repo": "ticohq/tico",
+      "category": "nro",
+      "version": "",
+      "release_date": "",
+      "files": [
+        "tico/config/audio.jsonc",
+        "tico/config/cores/fbneo.jsonc",
+        "tico/config/cores/fceumm.jsonc",
+        "tico/config/cores/flycast.jsonc",
+        "tico/config/cores/gambatte.jsonc",
+        "tico/config/cores/genesis_plus_gx.jsonc",
+        "tico/config/cores/mgba.jsonc",
+        "tico/config/cores/mupen64plus.jsonc",
+        "tico/config/cores/ppsspp.jsonc",
+        "tico/config/cores/snes9x.jsonc",
+        "tico/config/cores/swanstation.jsonc",
+        "tico/config/cores/yabasanshiro.jsonc",
+        "tico/config/display.jsonc",
+        "tico/config/gamelist.jsonc",
+        "tico/config/roms.jsonc"
+      ],
+      "size_bytes": 16393,
+      "repo_url": "https://github.com/ticohq/tico"
     },
     {
       "id": "tinwoo",
@@ -529,6 +570,19 @@
       ],
       "size_bytes": 8111465,
       "repo_url": "https://github.com/retronx-team/sys-clk"
+    },
+    {
+      "id": "morce3232-dbipatcher",
+      "name": "DBIPatcher",
+      "repo": "Morce3232/DBIPatcher",
+      "category": "nro",
+      "version": "v845",
+      "release_date": "2025-11-28",
+      "files": [
+        "switch/845.en/845.en.nro"
+      ],
+      "size_bytes": 8658477,
+      "repo_url": "https://github.com/Morce3232/DBIPatcher"
     }
   ],
   "extras": [
@@ -555,15 +609,18 @@
     ".git/info/refs",
     ".git/logs/HEAD",
     ".git/logs/refs/heads/main",
-    ".git/objects/8c/0e04d41fdeed430ec86c868d19a31a8b6f287a",
+    ".git/logs/refs/remotes/origin/main",
+    ".git/objects/06/6e51e639db59fec5ff27dd99cb4d51f5f7af20",
     ".git/objects/info/commit-graph",
     ".git/objects/info/packs",
-    ".git/objects/pack/pack-11e80706eaa89a8301d13e2384a6a7993e75c62a.idx",
-    ".git/objects/pack/pack-11e80706eaa89a8301d13e2384a6a7993e75c62a.pack",
-    ".git/objects/pack/pack-11e80706eaa89a8301d13e2384a6a7993e75c62a.rev",
+    ".git/objects/pack/pack-eeb0dc1158b258cb124892f2e69bda21d572061f.idx",
+    ".git/objects/pack/pack-eeb0dc1158b258cb124892f2e69bda21d572061f.pack",
+    ".git/objects/pack/pack-eeb0dc1158b258cb124892f2e69bda21d572061f.rev",
     ".git/refs/heads/main",
+    ".git/refs/remotes/origin/main",
     ".git/refs/tags/FW22.1.0-R3",
     ".gitignore",
+    "Roms/.gitkeep",
     "SaltySD/exceptions.txt",
     "SaltySD/flags/log.flag",
     "SaltySD/saltysd_bootstrap.elf",
@@ -13129,8 +13186,6 @@
     "switch/.overlays/lang/Zing/zh-Hant.json",
     "switch/.overlays/ovlEdiZon.ovl",
     "switch/.overlays/ovlSysmodules.ovl",
-    "switch/DBI_EN/DBI.874.en.nro",
-    "switch/DBI_EN/dbi.config",
     "switch/DBI_RU/DBI.nro",
     "switch/DBI_RU/dbi.config",
     "switch/DBI_RU/dbibackend",
@@ -13206,21 +13261,6 @@
     "tico/assets/systems/symbols/saturn.svg",
     "tico/assets/systems/symbols/sega-cd.svg",
     "tico/assets/systems/symbols/snes.svg",
-    "tico/config/audio.jsonc",
-    "tico/config/cores/fbneo.jsonc",
-    "tico/config/cores/fceumm.jsonc",
-    "tico/config/cores/flycast.jsonc",
-    "tico/config/cores/gambatte.jsonc",
-    "tico/config/cores/genesis_plus_gx.jsonc",
-    "tico/config/cores/mgba.jsonc",
-    "tico/config/cores/mupen64plus.jsonc",
-    "tico/config/cores/ppsspp.jsonc",
-    "tico/config/cores/snes9x.jsonc",
-    "tico/config/cores/swanstation.jsonc",
-    "tico/config/cores/yabasanshiro.jsonc",
-    "tico/config/display.jsonc",
-    "tico/config/gamelist.jsonc",
-    "tico/config/roms.jsonc",
     "tico/cores/flycast-LICENSE.txt",
     "tico/cores/flycast.nro",
     "tico/data/cache/dc.json",
@@ -13246,11 +13286,35 @@
     "tico/data/gamelists/psx.json",
     "tico/data/gamelists/sega-cd.json",
     "tico/data/gamelists/snes.json",
+    "tico/roms/dc/.gitkeep",
+    "tico/roms/game-gear/.gitkeep",
+    "tico/roms/gb/.gitkeep",
+    "tico/roms/gba/.gitkeep",
+    "tico/roms/gbc/.gitkeep",
+    "tico/roms/genesis/.gitkeep",
+    "tico/roms/master-system/.gitkeep",
+    "tico/roms/nes/.gitkeep",
+    "tico/roms/psp/.gitkeep",
+    "tico/roms/psx/.gitkeep",
+    "tico/roms/sega-cd/.gitkeep",
+    "tico/roms/snes/.gitkeep",
+    "tico/system/dc/.gitkeep",
+    "tico/system/game-gear/.gitkeep",
+    "tico/system/gb/.gitkeep",
+    "tico/system/gba/.gitkeep",
+    "tico/system/gbc/.gitkeep",
+    "tico/system/genesis/.gitkeep",
+    "tico/system/master-system/.gitkeep",
+    "tico/system/nes/.gitkeep",
+    "tico/system/psp/.gitkeep",
+    "tico/system/psx/.gitkeep",
+    "tico/system/sega-cd/.gitkeep",
+    "tico/system/snes/.gitkeep",
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 13411,
-    "included_files": 12902,
+    "total_files_on_disk": 13438,
+    "included_files": 12929,
     "excluded_files": 509,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -13287,7 +13351,7 @@
       "Roms/Nintendo - Nintendo 64/n64/Blast Corps (USA) (Rev 1).z64",
       "Roms/Nintendo - Nintendo 64/n64/Bomberman 64 (USA).z64"
     ],
-    "detected_apps": 28,
-    "untagged_files": 12715
+    "detected_apps": 30,
+    "untagged_files": 12725
   }
 }

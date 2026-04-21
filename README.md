@@ -1,7 +1,7 @@
-# SCCM Setup FW22.1.0 R3
+# SCCM Setup FW22.1.0 R5
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.1.0**. Revision: **3**. Generated: 2026-04-21T16:04:20+00:00.
+Target firmware: **22.1.0**. Revision: **5**. Generated: 2026-04-21T21:39:39+00:00.
 
 ## Included
 
@@ -29,6 +29,8 @@ Target firmware: **22.1.0**. Revision: **3**. Generated: 2026-04-21T16:04:20+00:
 | Breeze | `beta104.4` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
 | Checkpoint | `v3.11.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
 | CyberFoil | `1.4.4` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
+| DBI | `—` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
+| DBIPatcher | `v845` | [Morce3232/DBIPatcher](https://github.com/Morce3232/DBIPatcher) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
@@ -38,6 +40,7 @@ Target firmware: **22.1.0**. Revision: **3**. Generated: 2026-04-21T16:04:20+00:
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
 | Sphaira | `1.0.0` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | Themezer | `2.0.3` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
+| Tico | `—` | [ticohq/tico](https://github.com/ticohq/tico) |
 | TinWoo | `1.0.28` | [mrdude2478/Tinwoo-Release](https://github.com/mrdude2478/Tinwoo-Release) |
 
 ### Overlays
