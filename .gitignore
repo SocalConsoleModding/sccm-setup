@@ -1,0 +1,63 @@
+# SCCM Setup Repo — auto-generated .gitignore
+# Do not edit by hand; regenerate via build/setup_manager.
+
+# ─── ROMs ────────────────────────────────────────────────────────────────────
+# Keep the Roms/ folder structure (for customer reference), exclude all
+# files inside it (at any depth). `Roms/*` only matched direct children —
+# the `**` glob is required for recursive matching.
+/Roms/**
+!/Roms/.gitkeep
+
+# Tico ROMs and system BIOS
+tico/roms/
+tico/system/
+
+# Game bundles
+AAA-NSPS/
+
+# Loose game files anywhere
+*.nsp
+*.nsz
+*.xci
+*.xcz
+
+# ─── Nintendo proprietary keys ───────────────────────────────────────────────
+*.keys
+
+# ─── sys-patch (per maintainer policy) ───────────────────────────────────────
+atmosphere/contents/420000000000000B/
+switch/.overlays/sys-patch-overlay.ovl
+
+# ─── Lockpick (DMCA'd on GitHub, keep-quiet maintainer policy) ───────────────
+bootloader/payloads/Lockpick_RCM.bin
+bootloader/payloads/Lockpick_RCM_Pro.bin
+
+# ─── RetroArch BIOS ──────────────────────────────────────────────────────────
+retroarch/system/
+
+# ─── Atmosphere runtime state (not part of a fresh setup) ────────────────────
+atmosphere/automatic_backups/
+atmosphere/crash_reports/
+atmosphere/logs/
+atmosphere/erpt_reports/
+atmosphere/fatal_errors/
+atmosphere/fatal_reports/
+
+# ─── Common BIOS filenames (belt and braces) ─────────────────────────────────
+**/system/scph*.bin
+**/system/*bios*.bin
+**/system/dc_boot.bin
+**/system/gba_bios.bin
+**/system/disksys.rom
+**/bios/**
+
+# ─── Editor / OS cruft ───────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Setup Manager's working state (tool-only, never publish) ────────────────
+.sccm/
+
+# ─── Oversize files (auto-excluded from git; kept in release zip) ─
+/retroarch/cores/scummvm_libretro_libnx.nro

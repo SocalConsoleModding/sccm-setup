@@ -1,0 +1,132 @@
+[
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "2d206bf7",
+    "description": "Chrono Trigger (USA)",
+    "gameId": "0437",
+    "lastScanned": 1735716701,
+    "romPath": "Chrono Trigger (USA).sfc",
+    "title": "Chrono Trigger"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "17657db6",
+    "description": "Donkey Kong Country (Europe) (En,Fr,De) (Rev 1)",
+    "gameId": "0600",
+    "lastScanned": 1735716701,
+    "romPath": "Donkey Kong Country (Europe) (En,Fr,De) (Rev 1).sfc",
+    "title": "Donkey Kong Country"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "0605",
+    "crc32": "4e2d90f4",
+    "description": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)",
+    "gameId": "0609",
+    "lastScanned": 1735716701,
+    "romPath": "Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1).sfc",
+    "title": "Donkey Kong Country 2 - Diddy's\nKong Quest"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "dc9bb451",
+    "description": "EarthBound (USA)",
+    "gameId": "0689",
+    "lastScanned": 1735716701,
+    "romPath": "EarthBound (USA).sfc",
+    "title": "EarthBound"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "c0fa0464",
+    "description": "Final Fantasy III (USA) (Rev 1)",
+    "gameId": "0797",
+    "lastScanned": 1735716701,
+    "romPath": "Final Fantasy III (USA) (Rev 1).sfc",
+    "title": "Final Fantasy III"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "1443",
+    "crc32": "777aac2f",
+    "description": "Legend of Zelda, The - A Link to the Past (USA)",
+    "gameId": "1446",
+    "lastScanned": 1735716701,
+    "romPath": "Legend of Zelda, The - A Link to the Past (USA).sfc",
+    "title": "The Legend of Zelda - A Link to\nthe Past"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "2497",
+    "crc32": "8fc4e6d0",
+    "description": "Star Fox (USA) (Rev 2)",
+    "gameId": "2478",
+    "lastScanned": 1735716701,
+    "romPath": "Star Fox (USA) (Rev 2).sfc",
+    "title": "Star Fox"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "2753",
+    "crc32": "925637c7",
+    "description": "Super Mario All-Stars (USA)",
+    "gameId": "2754",
+    "lastScanned": 1735716701,
+    "romPath": "Super Mario All-Stars (USA).sfc",
+    "title": "Super Mario All-Stars"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "1b8a0625",
+    "description": "Super Mario RPG - Legend of the Seven Stars (USA)",
+    "gameId": "2763",
+    "lastScanned": 1735716701,
+    "romPath": "Super Mario RPG - Legend of the Seven Stars (USA).sfc",
+    "title": "Super Mario RPG - Legend of the\nSeven Stars"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "2765",
+    "crc32": "b19ed489",
+    "description": "Super Mario World (USA)",
+    "gameId": "2767",
+    "lastScanned": 1735716701,
+    "romPath": "Super Mario World (USA).sfc",
+    "title": "Super Mario World"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "2772",
+    "crc32": "d63ed5f8",
+    "description": "Super Metroid (Japan, USA) (En,Ja)",
+    "gameId": "2773",
+    "lastScanned": 1735716701,
+    "romPath": "Super Metroid (Japan, USA) (En,Ja).sfc",
+    "title": "Super Metroid"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "87653732",
+    "description": "Star Fox 2 (USA, Europe) (Classic Mini, Switch Online)",
+    "gameId": "3683",
+    "lastScanned": 1735716701,
+    "romPath": "Star Fox 2 (USA, Europe) (Classic Mini, Switch Online).sfc",
+    "title": "Star Fox 2"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "3175",
+    "crc32": "f5bfe41e",
+    "description": "Ultimate Mortal Kombat 3 (USA)",
+    "gameId": "3176",
+    "lastScanned": 1735716701,
+    "romPath": "Ultimate Mortal Kombat 3 (USA).sfc",
+    "title": "Ultimate Mortal Kombat 3"
+  }
+]

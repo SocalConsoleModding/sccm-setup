@@ -1,0 +1,72 @@
+[
+  {
+    "category": "",
+    "cloneOfId": "",
+    "crc32": "f777a5d8",
+    "description": "Donkey Kong (World) (Rev 1) (SGB Enhanced)",
+    "gameId": "0300",
+    "lastScanned": 1735716346,
+    "romPath": "Donkey Kong (World) (Rev 1) (SGB Enhanced).gb",
+    "title": "Donkey Kong"
+  },
+  {
+    "category": "",
+    "cloneOfId": "",
+    "crc32": "34d08e7b",
+    "description": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2)",
+    "gameId": "0694",
+    "lastScanned": 1735716346,
+    "romPath": "Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev 2).gb",
+    "title": "The Legend of Zelda - Link's\nAwakening"
+  },
+  {
+    "category": "",
+    "cloneOfId": "0763",
+    "crc32": "72e6d21d",
+    "description": "Mega Man V (USA) (SGB Enhanced)",
+    "gameId": "0764",
+    "lastScanned": 1735716346,
+    "romPath": "Mega Man V (USA) (SGB Enhanced).gb",
+    "title": "Mega Man V"
+  },
+  {
+    "category": "",
+    "cloneOfId": "",
+    "crc32": "d6da8a1a",
+    "description": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced)",
+    "gameId": "1035",
+    "lastScanned": 1735716346,
+    "romPath": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced).gb",
+    "title": "Pokemon - Blue Version"
+  },
+  {
+    "category": "",
+    "cloneOfId": "",
+    "crc32": "9f7fdd53",
+    "description": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+    "gameId": "1038",
+    "lastScanned": 1735716346,
+    "romPath": "Pokemon - Red Version (USA, Europe) (SGB Enhanced).gb",
+    "title": "Pokemon - Red Version"
+  },
+  {
+    "category": "",
+    "cloneOfId": "",
+    "crc32": "7d527d62",
+    "description": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
+    "gameId": "1571",
+    "lastScanned": 1735716346,
+    "romPath": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).gb",
+    "title": "Pokemon - Yellow Version\n- Special Pikachu Edition"
+  },
+  {
+    "category": "",
+    "cloneOfId": "",
+    "crc32": "46df91ad",
+    "description": "Tetris (World) (Rev 1)",
+    "gameId": "1383",
+    "lastScanned": 1735716346,
+    "romPath": "Tetris (World) (Rev 1).gb",
+    "title": "Tetris"
+  }
+]

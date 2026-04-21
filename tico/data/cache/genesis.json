@@ -1,0 +1,172 @@
+[
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "9377f1b5",
+    "description": "Aerobiz Supersonic (USA)",
+    "gameId": "0077",
+    "lastScanned": 1735716384,
+    "romPath": "Aerobiz Supersonic (USA).md",
+    "title": "Aerobiz Supersonic"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "4291c8ab",
+    "description": "Flicky (USA, Europe)",
+    "gameId": "0506",
+    "lastScanned": 1735716384,
+    "romPath": "Flicky (USA, Europe).md",
+    "title": "Flicky"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "1aa3a207",
+    "description": "Mortal Kombat (World)",
+    "gameId": "0861",
+    "lastScanned": 1735716384,
+    "romPath": "Mortal Kombat (World).md",
+    "title": "Mortal Kombat"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "1716",
+    "crc32": "fe236442",
+    "description": "Phantasy Star IV (USA)",
+    "gameId": "1004",
+    "lastScanned": 1735716384,
+    "romPath": "Phantasy Star IV (USA).md",
+    "title": "Phantasy Star IV"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "ed50e75c",
+    "description": "Pirates! Gold (USA)",
+    "gameId": "1016",
+    "lastScanned": 1735716384,
+    "romPath": "Pirates! Gold (USA).md",
+    "title": "Pirates! Gold"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "4d35ebe4",
+    "description": "Revenge of Shinobi, The (USA, Europe) (Rev B)",
+    "gameId": "1088",
+    "lastScanned": 1735716384,
+    "romPath": "Revenge of Shinobi, The (USA, Europe) (Rev B).md",
+    "title": "The Revenge of Shinobi"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "15785956",
+    "description": "Road Rash 3 (USA, Europe)",
+    "gameId": "1100",
+    "lastScanned": 1735716384,
+    "romPath": "Road Rash 3 (USA, Europe).md",
+    "title": "Road Rash 3"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "1111",
+    "crc32": "6abab577",
+    "description": "Rock n' Roll Racing (USA)",
+    "gameId": "1112",
+    "lastScanned": 1735716384,
+    "romPath": "Rock n' Roll Racing (USA).md",
+    "title": "Rock n' Roll Racing"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "1177",
+    "crc32": "4815e075",
+    "description": "Shining Force II (USA)",
+    "gameId": "1178",
+    "lastScanned": 1735716384,
+    "romPath": "Shining Force II (USA).md",
+    "title": "Shining Force II"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "4dcfd55c",
+    "description": "Sonic & Knuckles (World)",
+    "gameId": "1216",
+    "lastScanned": 1735716384,
+    "romPath": "Sonic & Knuckles (World) (Lock-on).bin",
+    "title": "Sonic & Knuckles"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "f9394e97",
+    "description": "Sonic The Hedgehog (USA, Europe)",
+    "gameId": "1231",
+    "lastScanned": 1735716384,
+    "romPath": "Sonic The Hedgehog (USA, Europe).md",
+    "title": "Sonic The Hedgehog"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "1234",
+    "crc32": "f23ad4b3",
+    "description": "Sonic The Hedgehog 2 (World) (Rev B) (Sonic Compilation ~ Sonic Classics)",
+    "gameId": "1756",
+    "lastScanned": 1735716384,
+    "romPath": "Sonic The Hedgehog 2 (World) (Rev B) (Sonic Compilation ~ Sonic Classics).md",
+    "title": "Sonic The Hedgehog 2"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "1235",
+    "crc32": "9bc192ce",
+    "description": "Sonic The Hedgehog 3 (USA)",
+    "gameId": "1237",
+    "lastScanned": 1735716384,
+    "romPath": "Sonic The Hedgehog 3 (USA).md",
+    "title": "Sonic The Hedgehog 3"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "4052e845",
+    "description": "Streets of Rage (World) (Rev A)",
+    "gameId": "0156",
+    "lastScanned": 1735716384,
+    "romPath": "Streets of Rage (World) (Rev A).md",
+    "title": "Streets of Rage"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "0158",
+    "crc32": "e01fa526",
+    "description": "Streets of Rage 2 (USA)",
+    "gameId": "1298",
+    "lastScanned": 1735716384,
+    "romPath": "Streets of Rage 2 (USA).md",
+    "title": "Streets of Rage 2"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "1300",
+    "crc32": "d5bb15d9",
+    "description": "Streets of Rage 3 (USA)",
+    "gameId": "1301",
+    "lastScanned": 1735716384,
+    "romPath": "Streets of Rage 3 (USA).md",
+    "title": "Streets of Rage 3"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "4b680285",
+    "description": "Warsong (USA)",
+    "gameId": "1519",
+    "lastScanned": 1735716384,
+    "romPath": "Warsong (USA).md",
+    "title": "Warsong"
+  }
+]

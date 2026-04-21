@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "639d58e5",
+    "description": "Spyro the Dragon (USA)",
+    "gameId": "",
+    "lastScanned": 1735716412,
+    "romPath": "Spyro the Dragon (USA).cue",
+    "title": "Spyro the Dragon"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "7420271e",
+    "description": "Crash Bandicoot (USA)",
+    "gameId": "",
+    "lastScanned": 1735716412,
+    "romPath": "Crash Bandicoot (USA).cue",
+    "title": "Crash Bandicoot"
+  }
+]

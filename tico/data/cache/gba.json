@@ -1,0 +1,652 @@
+[
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "02. Fire Emblem",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "02. Fire Emblem (USA, Australia).gba",
+    "title": "02. Fire Emblem"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "03. Pokemon - Emerald Version",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "03. Pokemon - Emerald Version (USA, Europe).gba",
+    "title": "03. Pokemon - Emerald Version"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "03. Pokemon - Ruby Version",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "03. Pokemon - Ruby Version (USA).gba",
+    "title": "03. Pokemon - Ruby Version"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "03. Pokemon - Sapphire Version",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "03. Pokemon - Sapphire Version (USA).gba",
+    "title": "03. Pokemon - Sapphire Version"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "04. Final Fantasy Tactics\nAdvance",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "04. Final Fantasy Tactics Advance (USA, Australia).gba",
+    "title": "04. Final Fantasy Tactics\nAdvance"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "06. Pokemon - FireRed Version",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "06. Pokemon - FireRed Version (USA).gba",
+    "title": "06. Pokemon - FireRed Version"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "06. Pokemon - LeafGreen Version",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "06. Pokemon - LeafGreen Version (USA).gba",
+    "title": "06. Pokemon - LeafGreen Version"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "07. Final Fantasy VI Advance",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "07. Final Fantasy VI Advance (USA).gba",
+    "title": "07. Final Fantasy VI Advance"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "08. The Legend of Zelda - A Link\nto the Past & Four Swords",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "08. The Legend of Zelda - A Link to the Past & Four Swords (USA, Australia).gba",
+    "title": "08. The Legend of Zelda - A Link\nto the Past & Four Swords"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "09. Mario & Luigi - Superstar\nSaga",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "09. Mario & Luigi - Superstar Saga (USA, Australia).gba",
+    "title": "09. Mario & Luigi - Superstar\nSaga"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "10. Metroid Fusion",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "10. Metroid Fusion (USA, Australia).gba",
+    "title": "10. Metroid Fusion"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "11. The Legend of Zelda - The\nMinish Cap",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "11. The Legend of Zelda - The Minish Cap (USA).gba",
+    "title": "11. The Legend of Zelda - The\nMinish Cap"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "12. Metroid - Zero Mission",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "12. Metroid - Zero Mission (USA).gba",
+    "title": "12. Metroid - Zero Mission"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "13. Super Mario Advance 2\n- Super Mario World",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "13. Super Mario Advance 2 - Super Mario World (USA, Australia).gba",
+    "title": "13. Super Mario Advance 2\n- Super Mario World"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "14. Fire Emblem - The Sacred\nStones",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "14. Fire Emblem - The Sacred Stones (USA, Australia).gba",
+    "title": "14. Fire Emblem - The Sacred\nStones"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "15. Super Mario Advance 4\n- Super Mario Bros. 3",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "15. Super Mario Advance 4 - Super Mario Bros. 3 (U) (V1.1).gba",
+    "title": "15. Super Mario Advance 4\n- Super Mario Bros. 3"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "16. Advance Wars 2 - Black Hole\nRising",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "16. Advance Wars 2 - Black Hole Rising (USA, Australia).gba",
+    "title": "16. Advance Wars 2 - Black Hole\nRising"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "17. Mega Man Battle Network 3\n- Blue Version",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "17. Mega Man Battle Network 3 - Blue Version (USA).gba",
+    "title": "17. Mega Man Battle Network 3\n- Blue Version"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "17. Mega Man Battle Network 3\n- White Version",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "17. Mega Man Battle Network 3 - White Version (USA).gba",
+    "title": "17. Mega Man Battle Network 3\n- White Version"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "18. Final Fantasy V Advance",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "18. Final Fantasy V Advance (USA).gba",
+    "title": "18. Final Fantasy V Advance"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "19. Castlevania - Circle of the\nMoon",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "19. Castlevania - Circle of the Moon (USA).gba",
+    "title": "19. Castlevania - Circle of the\nMoon"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "21. Mother 3",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "21. Mother 3 (Japan) [T+Eng].gba",
+    "title": "21. Mother 3"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "22. Advance Wars",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "22. Advance Wars (USA).gba",
+    "title": "22. Advance Wars"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "23. WarioWare, Inc. - Mega\nMicrogame$!",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "23. WarioWare, Inc. - Mega Microgame$! (USA).gba",
+    "title": "23. WarioWare, Inc. - Mega\nMicrogame$!"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "24. WarioWare - Twisted!",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "24. WarioWare - Twisted! (USA).gba",
+    "title": "24. WarioWare - Twisted!"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "25. Summon Night - Swordcraft\nStory",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "25. Summon Night - Swordcraft Story (USA).gba",
+    "title": "25. Summon Night - Swordcraft\nStory"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "26. Harvest Moon - Friends of\nMineral Town",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "26. Harvest Moon - Friends of Mineral Town (USA).gba",
+    "title": "26. Harvest Moon - Friends of\nMineral Town"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "27. Super Mario Advance 3\n- Yoshi's Island",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "27. Super Mario Advance 3 - Yoshi's Island (USA).gba",
+    "title": "27. Super Mario Advance 3\n- Yoshi's Island"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "28. Astro Boy - Omega Factor",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "28. Astro Boy - Omega Factor (USA) (En,Ja,Fr,De,Es,It).gba",
+    "title": "28. Astro Boy - Omega Factor"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "29. Fire Emblem - Fuuin no\nTsurugi",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "29. Fire Emblem - Fuuin no Tsurugi (Japan).gba",
+    "title": "29. Fire Emblem - Fuuin no\nTsurugi"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "30. Final Fantasy IV Advance",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "30. Final Fantasy IV Advance (USA, Australia).gba",
+    "title": "30. Final Fantasy IV Advance"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "34. Tales of Phantasia",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "34. Tales of Phantasia (USA, Australia).gba",
+    "title": "34. Tales of Phantasia"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "35. Final Fantasy I & II - Dawn\nof Souls",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "35. Final Fantasy I & II - Dawn of Souls (USA, Australia).gba",
+    "title": "35. Final Fantasy I & II - Dawn\nof Souls"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "36. Mario Kart - Super Circuit",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "36. Mario Kart - Super Circuit (USA).gba",
+    "title": "36. Mario Kart - Super Circuit"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "39. Kingdom Hearts - Chain of\nMemories",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "39. Kingdom Hearts - Chain of Memories (USA).gba",
+    "title": "39. Kingdom Hearts - Chain of\nMemories"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "40. Mega Man Battle Network 6\n- Cybeast Falzar",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "40. Mega Man Battle Network 6 - Cybeast Falzar (USA).gba",
+    "title": "40. Mega Man Battle Network 6\n- Cybeast Falzar"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "40. Mega Man Battle Network 6\n- Cybeast Gregar",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "40. Mega Man Battle Network 6 - Cybeast Gregar (USA).gba",
+    "title": "40. Mega Man Battle Network 6\n- Cybeast Gregar"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "41. Sonic Advance",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "41. Sonic Advance (USA) (En,Ja).gba",
+    "title": "41. Sonic Advance"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "42. Donkey Kong Country 2",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "42. Donkey Kong Country 2 (USA, Australia).gba",
+    "title": "42. Donkey Kong Country 2"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "45. Mega Man Zero",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "45. Mega Man Zero (USA, Europe).gba",
+    "title": "45. Mega Man Zero"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "46. Super Street Fighter II\nTurbo - Revival",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "46. Super Street Fighter II Turbo - Revival (USA).gba",
+    "title": "46. Super Street Fighter II\nTurbo - Revival"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "47. Kirby & the Amazing Mirror",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "47. Kirby & the Amazing Mirror (USA).gba",
+    "title": "47. Kirby & the Amazing Mirror"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "48. Rhythm Tengoku",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "48. Rhythm Tengoku (Japan) (Rev 1).gba",
+    "title": "48. Rhythm Tengoku"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "49. Sonic Advance 3",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "49. Sonic Advance 3 (USA) (En,Ja,Fr,De,Es,It).gba",
+    "title": "49. Sonic Advance 3"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "51. Pokemon Mystery Dungeon\n- Red Rescue Team",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "51. Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia).gba",
+    "title": "51. Pokemon Mystery Dungeon\n- Red Rescue Team"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "52. Shining Soul II",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "52. Shining Soul II (USA).gba",
+    "title": "52. Shining Soul II"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "53. Wario Land 4",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "53. Wario Land 4 (USA, Europe).gba",
+    "title": "53. Wario Land 4"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "54. Mario Tennis - Power Tour",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "54. Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).gba",
+    "title": "54. Mario Tennis - Power Tour"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "55. Boktai 2 - Solar Boy Django",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "55. Boktai 2 - Solar Boy Django (USA).gba",
+    "title": "55. Boktai 2 - Solar Boy Django"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "56. Mega Man Zero 3",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "56. Mega Man Zero 3 (USA).gba",
+    "title": "56. Mega Man Zero 3"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "59. Mega Man Battle Network 5\n- Team Colonel",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "59. Mega Man Battle Network 5 - Team Colonel (USA).gba",
+    "title": "59. Mega Man Battle Network 5\n- Team Colonel"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "59. Mega Man Battle Network 5\n- Team Protoman",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "59. Mega Man Battle Network 5 - Team Protoman (USA).gba",
+    "title": "59. Mega Man Battle Network 5\n- Team Protoman"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "62. Sonic Battle",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "62. Sonic Battle (USA) (En,Ja,Fr,De,Es,It).gba",
+    "title": "62. Sonic Battle"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "64. F-Zero - Maximum Velocity",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "64. F-Zero - Maximum Velocity (USA, Europe).gba",
+    "title": "64. F-Zero - Maximum Velocity"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "66. ChuChu Rocket!",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "66. ChuChu Rocket! (USA) (En,Ja,Fr,De,Es).gba",
+    "title": "66. ChuChu Rocket!"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "67. Dragon Ball Z - The Legacy\nof Goku I & II",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "67. Dragon Ball Z - The Legacy of Goku I & II (USA).gba",
+    "title": "67. Dragon Ball Z - The Legacy\nof Goku I & II"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "68. Breath of Fire II",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "68. Breath of Fire II (USA).gba",
+    "title": "68. Breath of Fire II"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "69. Sonic Advance 2",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "69. Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).gba",
+    "title": "69. Sonic Advance 2"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "70. Donkey Kong Country",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "70. Donkey Kong Country (USA).gba",
+    "title": "70. Donkey Kong Country"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "71. Mega Man Zero 4",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "71. Mega Man Zero 4 (USA).gba",
+    "title": "71. Mega Man Zero 4"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "73. Mario vs. Donkey Kong",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "73. Mario vs. Donkey Kong (USA, Australia).gba",
+    "title": "73. Mario vs. Donkey Kong"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "74. Mega Man Battle Network 4\n- Blue Moon",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "74. Mega Man Battle Network 4 - Blue Moon (USA).gba",
+    "title": "74. Mega Man Battle Network 4\n- Blue Moon"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "74. Mega Man Battle Network 4\n- Red Sun",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "74. Mega Man Battle Network 4 - Red Sun (USA).gba",
+    "title": "74. Mega Man Battle Network 4\n- Red Sun"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "76. Super Mario Advance",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "76. Super Mario Advance (USA, Europe).gba",
+    "title": "76. Super Mario Advance"
+  },
+  {
+    "category": "Unknown",
+    "cloneOfId": "",
+    "crc32": "",
+    "description": "77. Super Monkey Ball Jr.",
+    "gameId": "",
+    "lastScanned": 1735716358,
+    "romPath": "77. Super Monkey Ball Jr. (USA).gba",
+    "title": "77. Super Monkey Ball Jr."
+  }
+]

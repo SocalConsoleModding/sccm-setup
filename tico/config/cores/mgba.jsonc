@@ -1,0 +1,17 @@
+{
+    "mgba_allow_opposing_directions": "no",
+    "mgba_audio_low_pass_filter": "disabled",
+    "mgba_audio_low_pass_range": "60",
+    "mgba_color_correction": "disabled",
+    "mgba_force_gbp": "disabled",
+    "mgba_frameskip": "disabled",
+    "mgba_gb_colors": "Grayscale",
+    "mgba_gb_colors_preset": "0",
+    "mgba_gb_model": "Autodetect",
+    "mgba_idle_optimization": "Remove Known",
+    "mgba_interframe_blending": "disabled",
+    "mgba_sgb_borders": "enabled",
+    "mgba_skip_bios": "disabled",
+    "mgba_solar_sensor_level": "0",
+    "mgba_use_bios": "enabled"
+}

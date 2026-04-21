@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "1301c8ab",
+    "description": "Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es)",
+    "gameId": "",
+    "lastScanned": 1735716338,
+    "romPath": "Sonic Adventure 2 (USA) (En,Ja,Fr,De,Es).cue",
+    "title": "Sonic Adventure 2"
+  },
+  {
+    "category": "Games",
+    "cloneOfId": "",
+    "crc32": "203bfd53",
+    "description": "Marvel vs. Capcom 2 (USA)",
+    "gameId": "",
+    "lastScanned": 1735716338,
+    "romPath": "Marvel vs. Capcom 2 (USA).cue",
+    "title": "Marvel vs. Capcom 2"
+  }
+]
