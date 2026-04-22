@@ -24,6 +24,12 @@ AAA-NSPS/
 *.nsz
 *.xci
 *.xcz
+# But keep system NSPs that ship with homebrew tooling (Homebrew Launcher
+# applet etc.). These need to land on customer SD cards as part of CFW
+# install — exclude them from Atmosphere installs and the Album-applet
+# homebrew launch path stops working.
+!hbl.nsp
+!atmosphere/hbl.nsp
 
 # ─── Nintendo proprietary keys ───────────────────────────────────────────────
 *.keys
