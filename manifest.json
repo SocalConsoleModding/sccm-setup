@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.1.0 R5",
+  "setup_version": "FW22.1.0 R6",
   "target_firmware": "22.1.0",
-  "revision": 5,
-  "generated_at": "2026-04-21T21:39:39+00:00",
+  "revision": 6,
+  "generated_at": "2026-04-22T16:39:56+00:00",
   "release_note": "",
   "apps": [
     {
@@ -156,6 +156,19 @@
       ],
       "size_bytes": 9708218,
       "repo_url": "https://github.com/rashevskyv/dbi"
+    },
+    {
+      "id": "morce3232-dbipatcher",
+      "name": "DBIPatcher",
+      "repo": "Morce3232/DBIPatcher",
+      "category": "nro",
+      "version": "v845",
+      "release_date": "2025-11-28",
+      "files": [
+        "switch/845.en/845.en.nro"
+      ],
+      "size_bytes": 8658477,
+      "repo_url": "https://github.com/Morce3232/DBIPatcher"
     },
     {
       "id": "edizon",
@@ -568,21 +581,8 @@
         "switch/.overlays/sys-clk-overlay.ovl",
         "switch/sys-clk-manager.nro"
       ],
-      "size_bytes": 8111465,
+      "size_bytes": 8111690,
       "repo_url": "https://github.com/retronx-team/sys-clk"
-    },
-    {
-      "id": "morce3232-dbipatcher",
-      "name": "DBIPatcher",
-      "repo": "Morce3232/DBIPatcher",
-      "category": "nro",
-      "version": "v845",
-      "release_date": "2025-11-28",
-      "files": [
-        "switch/845.en/845.en.nro"
-      ],
-      "size_bytes": 8658477,
-      "repo_url": "https://github.com/Morce3232/DBIPatcher"
     }
   ],
   "extras": [
@@ -611,6 +611,15 @@
     ".git/logs/refs/heads/main",
     ".git/logs/refs/remotes/origin/main",
     ".git/objects/06/6e51e639db59fec5ff27dd99cb4d51f5f7af20",
+    ".git/objects/25/cf11d48d4489a0e2509a818499afefa992273e",
+    ".git/objects/36/6cc60f9e3902f9bcbf564b3eabcc8ae7f77432",
+    ".git/objects/84/236ead57c0be3ba8a68e1ee184573d47123bbc",
+    ".git/objects/ac/ec9a05c7c1dd5d47ff4be50280bf35548d6ee6",
+    ".git/objects/cb/3d9614431ec299c6efde5f666525f44ae948ad",
+    ".git/objects/d0/7cd7c0c974b3a95c87e3c6ec52bd88323836ff",
+    ".git/objects/f6/26afea6ce25b2a8fc05e8a1e74520eb31e8999",
+    ".git/objects/f8/98731b5fa08298390bc779a2c7bf4147d25ec2",
+    ".git/objects/f8/b2381d9ebd11add797d2bc34492f11a3a723ae",
     ".git/objects/info/commit-graph",
     ".git/objects/info/packs",
     ".git/objects/pack/pack-eeb0dc1158b258cb124892f2e69bda21d572061f.idx",
@@ -619,6 +628,7 @@
     ".git/refs/heads/main",
     ".git/refs/remotes/origin/main",
     ".git/refs/tags/FW22.1.0-R3",
+    ".git/refs/tags/FW22.1.0-R5",
     ".gitignore",
     "Roms/.gitkeep",
     "SaltySD/exceptions.txt",
@@ -13210,6 +13220,7 @@
     "switch/retroarch_switch.nro",
     "switch/settings.ini",
     "switch/sphaira/cache/etag_v2.json",
+    "switch/tico.nro",
     "switch/tinfoil/keys.txt",
     "switch/tinfoil/locations.conf.default",
     "themes/121FDD88B9A3EB71D99F936E45A0C76538C6B5AF000000000000000000000000.ips",
@@ -13235,6 +13246,7 @@
     "tico/assets/systems/covers/gb.jpg",
     "tico/assets/systems/covers/gba.jpg",
     "tico/assets/systems/covers/gbc.jpg",
+    "tico/assets/systems/covers/gc.jpg",
     "tico/assets/systems/covers/genesis.jpg",
     "tico/assets/systems/covers/master-system.jpg",
     "tico/assets/systems/covers/n64.jpg",
@@ -13244,6 +13256,7 @@
     "tico/assets/systems/covers/saturn.jpg",
     "tico/assets/systems/covers/sega-cd.jpg",
     "tico/assets/systems/covers/snes.jpg",
+    "tico/assets/systems/covers/wii.jpg",
     "tico/assets/systems/symbols/dc.svg",
     "tico/assets/systems/symbols/fbneo.svg",
     "tico/assets/systems/symbols/game-gear.svg",
@@ -13261,6 +13274,8 @@
     "tico/assets/systems/symbols/saturn.svg",
     "tico/assets/systems/symbols/sega-cd.svg",
     "tico/assets/systems/symbols/snes.svg",
+    "tico/assets/systems/symbols/wii.svg",
+    "tico/config/cores/dolphin.jsonc",
     "tico/cores/flycast-LICENSE.txt",
     "tico/cores/flycast.nro",
     "tico/data/cache/dc.json",
@@ -13293,6 +13308,7 @@
     "tico/roms/gbc/.gitkeep",
     "tico/roms/genesis/.gitkeep",
     "tico/roms/master-system/.gitkeep",
+    "tico/roms/n64/.gitkeep",
     "tico/roms/nes/.gitkeep",
     "tico/roms/psp/.gitkeep",
     "tico/roms/psx/.gitkeep",
@@ -13313,31 +13329,29 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 13438,
-    "included_files": 12929,
-    "excluded_files": 509,
+    "total_files_on_disk": 15869,
+    "included_files": 12946,
+    "excluded_files": 2923,
     "excluded_by_category": {
       "os-cruft": 5,
-      "sccm-state": 1,
+      "sccm-state": 2,
       "nsps": 3,
-      "roms": 125,
+      "roms": 122,
       "rom-ext": 2,
       "ams-runtime": 50,
       "syspatch-sysmod": 3,
       "keys": 3,
       "syspatch-ovl": 1,
-      "tico-roms": 155,
-      "tico-sys": 161
+      "tico-roms": 1,
+      "tico-sys": 2731
     },
     "excluded_sample": [
       ".DS_Store",
+      ".sccm/custom_apps.json",
       ".sccm/manifest.json",
       "AAA-NSPS/aaa-nx-hbmenu [0156f6cc23220000].nsp",
       "AAA-NSPS/Retroarch [01eb64e9d5960000].nsp",
       "AAA-NSPS/tico.nsp",
-      "Roms/DS/GoldenEye 007 (USA).nds",
-      "Roms/DS/Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced).nds",
-      "Roms/DS/Pokemon - HeartGold Version (USA).nds",
       "Roms/Nintendo - Nintendo 64/n64/007 - The World Is Not Enough (USA).z64",
       "Roms/Nintendo - Nintendo 64/n64/1080 Snowboarding (Japan, USA) (En,Ja).z64",
       "Roms/Nintendo - Nintendo 64/n64/AeroGauge (USA).z64",
@@ -13349,9 +13363,11 @@
       "Roms/Nintendo - Nintendo 64/n64/Banjo-Tooie (USA).z64",
       "Roms/Nintendo - Nintendo 64/n64/Batman Beyond - Return of the Joker (USA).z64",
       "Roms/Nintendo - Nintendo 64/n64/Blast Corps (USA) (Rev 1).z64",
-      "Roms/Nintendo - Nintendo 64/n64/Bomberman 64 (USA).z64"
+      "Roms/Nintendo - Nintendo 64/n64/Bomberman 64 (USA).z64",
+      "Roms/Nintendo - Nintendo 64/n64/Bomberman 64 - The Second Attack! (USA).z64",
+      "Roms/Nintendo - Nintendo 64/n64/Bomberman Hero (USA).z64"
     ],
-    "detected_apps": 30,
-    "untagged_files": 12725
+    "detected_apps": 31,
+    "untagged_files": 12741
   }
 }
