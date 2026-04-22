@@ -62,6 +62,3 @@ desktop.ini
 
 # ─── Setup Manager's working state (tool-only, never publish) ────────────────
 .sccm/
-
-# ─── Oversize files (auto-excluded from git; kept in release zip) ─
-/retroarch/cores/scummvm_libretro_libnx.nro

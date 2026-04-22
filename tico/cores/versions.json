@@ -1,0 +1,50 @@
+{
+  "dc": {
+    "fileName": "tico-flycast.nro",
+    "version": "1.0.0"
+  },
+  "fbneo": {
+    "fileName": "tico-fbneo.nro",
+    "version": "1.0.0"
+  },
+  "gb/gbc": {
+    "fileName": "tico-gambatte.nro",
+    "version": "1.0.0"
+  },
+  "gba": {
+    "fileName": "tico-mgba.nro",
+    "version": "1.0.0"
+  },
+  "gc": {
+    "fileName": "tico-dolphin.nro",
+    "version": "0.0.1"
+  },
+  "genesis": {
+    "fileName": "tico-genesisplusgx.nro",
+    "version": "1.0.0"
+  },
+  "n64": {
+    "fileName": "tico-mupen64plus.nro",
+    "version": "1.0.0"
+  },
+  "nes": {
+    "fileName": "tico-fceumm.nro",
+    "version": "1.0.0"
+  },
+  "psp": {
+    "fileName": "tico-ppsspp.nro",
+    "version": "1.0.0"
+  },
+  "psx": {
+    "fileName": "tico-swanstation.nro",
+    "version": "1.0.1"
+  },
+  "saturn": {
+    "fileName": "tico-yabasanshiro.nro",
+    "version": "1.0.1"
+  },
+  "snes": {
+    "fileName": "tico-snes9x.nro",
+    "version": "1.0.0"
+  }
+}

@@ -1,4 +1,0 @@
-vbanext_bios = "enabled"
-vbanext_rtc = "auto"
-vbanext_turbodelay = "2"
-vbanext_turboenable = "disabled"
