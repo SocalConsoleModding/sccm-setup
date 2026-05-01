@@ -1,0 +1,10 @@
+{
+  "date_format": "YYYY-MM-DD",
+  "enable_experimental_cores": true,
+  "font_scale": 1.0,
+  "hour_format": "24h",
+  "language": "English",
+  "navigation_type": "Type 1",
+  "roms_path": "",
+  "scan_subfolders": false
+}

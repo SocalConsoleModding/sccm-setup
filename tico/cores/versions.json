@@ -5,23 +5,23 @@
   },
   "fbneo": {
     "fileName": "tico-fbneo.nro",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
-  "gb/gbc": {
+  "gb-gbc": {
     "fileName": "tico-gambatte.nro",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "gba": {
     "fileName": "tico-mgba.nro",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "gc": {
     "fileName": "tico-dolphin.nro",
-    "version": "0.0.1"
+    "version": "0.0.4"
   },
   "genesis": {
     "fileName": "tico-genesisplusgx.nro",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "n64": {
     "fileName": "tico-mupen64plus.nro",
@@ -29,7 +29,7 @@
   },
   "nes": {
     "fileName": "tico-fceumm.nro",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "psp": {
     "fileName": "tico-ppsspp.nro",
@@ -45,6 +45,6 @@
   },
   "snes": {
     "fileName": "tico-snes9x.nro",
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 }
