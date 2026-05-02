@@ -1,11 +1,11 @@
-# SCCM Setup FW22.1.0 R12
+# SCCM Setup FW22.1.0 R13
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.1.0**. Revision: **12**. Generated: 2026-05-01T16:59:16+00:00.
+Target firmware: **22.1.0**. Revision: **13**. Generated: 2026-05-02T02:44:30+00:00.
 
 ## Release notes
 
-Included preconfigured Tico cores
+Added latest DBI english patch
 
 ## Included
 
@@ -34,7 +34,7 @@ Included preconfigured Tico cores
 | Checkpoint | `v3.11.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
 | CyberFoil | `1.4.4` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
 | DBI | `894ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
-| DBIPatcher | `v845` | [Morce3232/DBIPatcher](https://github.com/Morce3232/DBIPatcher) |
+| DBI (English) | `894` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
