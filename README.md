@@ -1,7 +1,7 @@
-# SCCM Setup FW22.1.0 R14
+# SCCM Setup FW22.1.0 R15
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.1.0**. Revision: **14**. Generated: 2026-05-04T04:15:34+00:00.
+Target firmware: **22.1.0**. Revision: **15**. Generated: 2026-05-04T13:57:02+00:00.
 
 ## Release notes
 
@@ -31,10 +31,10 @@ Added latest DBI english patch
 | 90DNS Tester | `v1.1.0` | [meganukebmp/Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) |
 | AIO Switch Updater | `2.23.3` | [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
 | Breeze | `beta104.4` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
-| Checkpoint | `v3.11.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
+| Checkpoint | `v3.12.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
 | CyberFoil | `1.4.4` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
-| DBI | `894ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
-| DBI (English) | `894` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
+| DBI | `895ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
+| DBI (English) | `895` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |

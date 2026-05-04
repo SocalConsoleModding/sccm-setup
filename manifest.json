@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.1.0 R14",
+  "setup_version": "FW22.1.0 R15",
   "target_firmware": "22.1.0",
-  "revision": 14,
-  "generated_at": "2026-05-04T04:15:34+00:00",
+  "revision": 15,
+  "generated_at": "2026-05-04T13:57:02+00:00",
   "release_note": "Added latest DBI english patch",
   "apps": [
     {
@@ -122,12 +122,12 @@
       "name": "Checkpoint",
       "repo": "FlagBrew/Checkpoint",
       "category": "nro",
-      "version": "v3.11.0",
-      "release_date": "2026-02-24",
+      "version": "v3.12.0",
+      "release_date": "2026-03-12",
       "files": [
         "switch/Checkpoint.nro"
       ],
-      "size_bytes": 10287733,
+      "size_bytes": 10304117,
       "repo_url": "https://github.com/FlagBrew/Checkpoint"
     },
     {
@@ -148,13 +148,13 @@
       "name": "DBI",
       "repo": "rashevskyv/dbi",
       "category": "nro",
-      "version": "894ru",
-      "release_date": "2026-04-28",
+      "version": "895ru",
+      "release_date": "2026-05-02",
       "files": [
         "switch/DBI/DBI.nro",
         "switch/DBI/dbi.config"
       ],
-      "size_bytes": 11565874,
+      "size_bytes": 11569970,
       "repo_url": "https://github.com/rashevskyv/dbi"
     },
     {
@@ -162,10 +162,10 @@
       "name": "DBI (English)",
       "repo": "rashevskyv/DBIPatcher",
       "category": "nro",
-      "version": "894",
-      "release_date": "2026-04-28",
+      "version": "895",
+      "release_date": "2026-05-02",
       "files": [
-        "switch/DBI_EN/DBI.nro",
+        "switch/DBI_EN/DBI_EN.nro",
         "switch/DBI_EN/translation.bin"
       ],
       "size_bytes": 12219173,
@@ -634,18 +634,22 @@
     ".git/objects/1d/b2a212198b4411a31a4ddc236103b887175087",
     ".git/objects/22/40f04d0460c9c3488e5f8f90cf0f8dd197645e",
     ".git/objects/25/cf11d48d4489a0e2509a818499afefa992273e",
+    ".git/objects/26/f4c277dfa3d39e4dbe349211e9ae023562ef17",
     ".git/objects/27/fdb784d927ede13e76eb1f28d24c017c2d4378",
     ".git/objects/2e/b7b4a20b2cf8ec37a31007bb282ae7c2a552e1",
+    ".git/objects/2f/0d5796e977647872ffda232dbef8804cdbadfb",
     ".git/objects/32/1dbeade639812ca121675b59ee838dc3024641",
     ".git/objects/34/b6d6efe2975fd9ca17fa9ca38207ef6725cfa1",
     ".git/objects/35/c553f075c7c0085eb4d440e35dd2ef2a23d0c5",
     ".git/objects/36/6cc60f9e3902f9bcbf564b3eabcc8ae7f77432",
     ".git/objects/37/5aaa963127c10e6ddce422b3e83b49c779dc3f",
+    ".git/objects/3a/fe022690e00b0cb383f2939939a01f0545b5e3",
     ".git/objects/3d/f37a1100706b56976c91a3c69ba34ad764b6d6",
     ".git/objects/3e/d47868721e9c28ae2bc864a9fa1aa1f23f9139",
     ".git/objects/3f/33b35ddae92ad0c0c7064bbc4f41a9f8ede240",
     ".git/objects/41/089bf678a4b6f08150de014cc8739fdc41042a",
     ".git/objects/43/55b1c10b7513d085992cca21fdd1698947e030",
+    ".git/objects/45/73f5be51816626c67e80b20810f6f4cdd3f8b6",
     ".git/objects/49/2d4e18762943cc1887ac5292c8c77467d0584d",
     ".git/objects/4a/a3bbb9afa91aa9d16c6628e2088d122ab44d74",
     ".git/objects/4f/1ee3d7cd553e1a13d0e7561f91d79ebe6c137e",
@@ -665,6 +669,7 @@
     ".git/objects/66/c8cd03d3e8a21eb44a5ca5e90c39a0674137b0",
     ".git/objects/67/af94c29873d42336a1bf592c10bbe81150f3ce",
     ".git/objects/6c/1001cefa8ddbac8c7fa6897f5a106fcb061b16",
+    ".git/objects/6c/a06509dae6a8c7ec444b352e3be76c285dd282",
     ".git/objects/6d/0471692ebe98a201933c1294ef609818068d50",
     ".git/objects/6e/e2ec2ae534606c5a2e58cd696c039116a0a66c",
     ".git/objects/6f/c5e9800ca6fcff6aa2c780b7735b3b22da17a4",
@@ -720,9 +725,12 @@
     ".git/objects/d4/6aa117c59bb582a8e1d0ee4a054ebfb96681ac",
     ".git/objects/d8/2b0a931c2d270dc5ef5f0ced10fced19aa0b06",
     ".git/objects/da/380e121928c953e7f1797cb0d1f8eece8e4efe",
+    ".git/objects/da/8c4209d3276fba5ef58da110907ee62a71b6de",
     ".git/objects/e2/8c9a36c92212e23585ef27e55a0dd35e6fec0d",
     ".git/objects/e2/c04489b80b1853b0a5619bccedb2f7b07624bf",
+    ".git/objects/e3/8f1e4323b67358d5cb2ea7403d601a6617bb63",
     ".git/objects/e4/5304107cb70762a0455ac904447886a95bcc52",
+    ".git/objects/ea/038b4fbeed6f023618c4507d81ca78608a33aa",
     ".git/objects/ea/ba8814f4a2883320079b1c0a9e0600575bb756",
     ".git/objects/ed/b5d8afe99b91548f1de13097052a7a7ae8b5ec",
     ".git/objects/ee/d9c0b9210a1192bcde0275a9bf55f035fec6e2",
@@ -730,6 +738,7 @@
     ".git/objects/ef/9a75b13a5a171af0f454314ee56d0945ccf284",
     ".git/objects/f3/3cbdad20450b51e537eb383f9c7c1e82271e2e",
     ".git/objects/f6/26afea6ce25b2a8fc05e8a1e74520eb31e8999",
+    ".git/objects/f7/645f2a6bfb755e38e9c007dc9b1e6c9d971412",
     ".git/objects/f7/84f2edd8bbdb540fa637f336b46a8b66ca75cc",
     ".git/objects/f8/98731b5fa08298390bc779a2c7bf4147d25ec2",
     ".git/objects/f8/b2381d9ebd11add797d2bc34492f11a3a723ae",
@@ -745,6 +754,7 @@
     ".git/refs/tags/FW22.1.0-R11",
     ".git/refs/tags/FW22.1.0-R12",
     ".git/refs/tags/FW22.1.0-R13",
+    ".git/refs/tags/FW22.1.0-R14",
     ".git/refs/tags/FW22.1.0-R3",
     ".git/refs/tags/FW22.1.0-R5",
     ".git/refs/tags/FW22.1.0-R6",
@@ -1366,8 +1376,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 3778,
-    "included_files": 983,
+    "total_files_on_disk": 3788,
+    "included_files": 993,
     "excluded_files": 2795,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1402,6 +1412,6 @@
       "atmosphere/erpt_reports/3c3098cf-44b0-b544-4bf8-40a0cfc8965e"
     ],
     "detected_apps": 31,
-    "untagged_files": 773
+    "untagged_files": 783
   }
 }
