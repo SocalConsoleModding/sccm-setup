@@ -68,3 +68,13 @@ desktop.ini
 
 # ─── Setup Manager's working state (tool-only, never publish) ────────────────
 .sccm/
+
+# ─── Oversize files (auto-excluded from git; kept in release zip) ─
+/emuMMC/SD00/eMMC/00
+/emuMMC/SD00/eMMC/01
+/emuMMC/SD00/eMMC/02
+/emuMMC/SD00/eMMC/03
+/emuMMC/SD00/eMMC/04
+/emuMMC/SD00/eMMC/05
+/emuMMC/SD00/eMMC/06
+/emuMMC/SD00/eMMC/07
