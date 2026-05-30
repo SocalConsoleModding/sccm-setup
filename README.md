@@ -1,11 +1,11 @@
 # SCCM Setup FW22.1.0 R16
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.1.0**. Revision: **16**. Generated: 2026-05-21T21:39:39+00:00.
+Target firmware: **22.1.0**. Revision: **16**. Generated: 2026-05-30T15:00:37+00:00.
 
 ## Release notes
 
-Minor fixes
+updated Ultrahand, status monitor overlay, moonlight, and nxthemes installer
 
 ## Included
 
@@ -39,8 +39,8 @@ Minor fixes
 | Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | Linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
-| Moonlight | `v1.4.0` | [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) |
-| NXThemes Installer | `v4.8.3` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
+| Moonlight | `v1.5.0` | [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) |
+| NXThemes Installer | `nxt-2.9` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
 | Sphaira | `1.0.0` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | Themezer | `3.0.0` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
@@ -54,9 +54,9 @@ Minor fixes
 | FPSLocker | `3.3.2` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Quick-Reboot | `V2.2.0` | [eradicatinglove/Quick-Reboot](https://github.com/eradicatinglove/Quick-Reboot) |
 | QuickNTP | `1.6.0` | [nedex/QuickNTP](https://github.com/nedex/QuickNTP) |
-| Status Monitor Overlay | `v1.3.2+r9` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
+| Status Monitor Overlay | `v1.4.1+` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
 | Tesla Menu (ovlloader) | `v1.0.7` | [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) |
-| Ultrahand | `v2.4.1` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
+| Ultrahand | `v2.4.4` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
 
 ### Bootloader Payloads
 

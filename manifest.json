@@ -3,8 +3,8 @@
   "setup_version": "FW22.1.0 R16",
   "target_firmware": "22.1.0",
   "revision": 16,
-  "generated_at": "2026-05-21T21:39:39+00:00",
-  "release_note": "Minor fixes",
+  "generated_at": "2026-05-30T15:00:37+00:00",
+  "release_note": "updated Ultrahand, status monitor overlay, moonlight, and nxthemes installer",
   "apps": [
     {
       "id": "atmosphere",
@@ -227,12 +227,12 @@
       "name": "Moonlight",
       "repo": "XITRIX/Moonlight-Switch",
       "category": "nro",
-      "version": "v1.4.0",
-      "release_date": "2026-03-28",
+      "version": "v1.5.0",
+      "release_date": "2026-05-24",
       "files": [
         "switch/Moonlight-Switch.nro"
       ],
-      "size_bytes": 23272031,
+      "size_bytes": 17677907,
       "repo_url": "https://github.com/XITRIX/Moonlight-Switch"
     },
     {
@@ -240,12 +240,12 @@
       "name": "NXThemes Installer",
       "repo": "exelix11/SwitchThemeInjector",
       "category": "nro",
-      "version": "v4.8.3",
-      "release_date": "2025-11-17",
+      "version": "nxt-2.9",
+      "release_date": "2026-05-29",
       "files": [
         "switch/NXThemesInstaller/NXThemesInstaller.nro"
       ],
-      "size_bytes": 8111550,
+      "size_bytes": 10337162,
       "repo_url": "https://github.com/exelix11/SwitchThemeInjector"
     },
     {
@@ -376,12 +376,12 @@
       "name": "Status Monitor Overlay",
       "repo": "ppkantorski/Status-Monitor-Overlay",
       "category": "ovl",
-      "version": "v1.3.2+r9",
-      "release_date": "2026-04-20",
+      "version": "v1.4.1+",
+      "release_date": "2026-05-26",
       "files": [
         "switch/.overlays/Status-Monitor-Overlay.ovl"
       ],
-      "size_bytes": 938044,
+      "size_bytes": 1114172,
       "repo_url": "https://github.com/ppkantorski/Status-Monitor-Overlay"
     },
     {
@@ -404,12 +404,12 @@
       "name": "Ultrahand",
       "repo": "ppkantorski/Ultrahand-Overlay",
       "category": "ovl",
-      "version": "v2.4.1",
-      "release_date": "2026-04-20",
+      "version": "v2.4.4",
+      "release_date": "2026-05-27",
       "files": [
         "switch/.overlays/ovlmenu.ovl"
       ],
-      "size_bytes": 1187900,
+      "size_bytes": 1200188,
       "repo_url": "https://github.com/ppkantorski/Ultrahand-Overlay"
     },
     {
@@ -585,7 +585,7 @@
         "switch/.overlays/sys-clk-overlay.ovl",
         "switch/sys-clk-manager.nro"
       ],
-      "size_bytes": 8111750,
+      "size_bytes": 8111739,
       "repo_url": "https://github.com/retronx-team/sys-clk"
     }
   ],
@@ -624,6 +624,7 @@
     ".git/objects/0f/e5e5c67b74e363481d599c908e0cd8d34b8e8b",
     ".git/objects/0f/fa24719f3b62a25aaf92e70babf2dfb4a57dfe",
     ".git/objects/10/cbcbb03adf4c2f04b753fd2e67a6e26381937a",
+    ".git/objects/12/94498bea91cbad8ad89fe8e9fbba2c09792920",
     ".git/objects/12/bda9dc8a47f9875b919fe93b4673d2174d73e5",
     ".git/objects/12/e1415c44e5fd9e250ec937e5e3411a858c7af1",
     ".git/objects/15/35eb899e6c36e64eebe7d1d8d447f4162a25ae",
@@ -635,6 +636,7 @@
     ".git/objects/22/40f04d0460c9c3488e5f8f90cf0f8dd197645e",
     ".git/objects/25/cf11d48d4489a0e2509a818499afefa992273e",
     ".git/objects/26/f4c277dfa3d39e4dbe349211e9ae023562ef17",
+    ".git/objects/27/5ad01961fbf4e9f32f11e5a9acb67a6490704c",
     ".git/objects/27/fdb784d927ede13e76eb1f28d24c017c2d4378",
     ".git/objects/2e/b7b4a20b2cf8ec37a31007bb282ae7c2a552e1",
     ".git/objects/2f/0d5796e977647872ffda232dbef8804cdbadfb",
@@ -643,6 +645,7 @@
     ".git/objects/35/c553f075c7c0085eb4d440e35dd2ef2a23d0c5",
     ".git/objects/36/6cc60f9e3902f9bcbf564b3eabcc8ae7f77432",
     ".git/objects/37/5aaa963127c10e6ddce422b3e83b49c779dc3f",
+    ".git/objects/37/b85c8c1d7a94c06297d4268eac721d8baca8d4",
     ".git/objects/3a/fe022690e00b0cb383f2939939a01f0545b5e3",
     ".git/objects/3d/f37a1100706b56976c91a3c69ba34ad764b6d6",
     ".git/objects/3e/d47868721e9c28ae2bc864a9fa1aa1f23f9139",
@@ -654,9 +657,11 @@
     ".git/objects/49/2d4e18762943cc1887ac5292c8c77467d0584d",
     ".git/objects/4a/a3bbb9afa91aa9d16c6628e2088d122ab44d74",
     ".git/objects/4f/1ee3d7cd553e1a13d0e7561f91d79ebe6c137e",
+    ".git/objects/51/adeb821aa1c719e11f8d3b5aa7f24bfcec27b5",
     ".git/objects/52/a9ed08b6916d7f1158844b2a65a6002193fd85",
     ".git/objects/55/14975e4d569bfa642811f3e28f2670368598be",
     ".git/objects/55/ba5508b1c2a87a59cd5ca042647a051d9221f7",
+    ".git/objects/57/d00ba6a6cc86e70d9a8a60ad5cffb686e868f3",
     ".git/objects/5a/08a7508311e46f86a73c34879a66b0186aebb4",
     ".git/objects/5d/64d387d4debedb4b637370e9f69475d8490b54",
     ".git/objects/5f/06dc29aec6812855bb2f02e4c26a9c963d6406",
@@ -673,8 +678,13 @@
     ".git/objects/6c/1001cefa8ddbac8c7fa6897f5a106fcb061b16",
     ".git/objects/6c/a06509dae6a8c7ec444b352e3be76c285dd282",
     ".git/objects/6d/0471692ebe98a201933c1294ef609818068d50",
+    ".git/objects/6d/c0e3b07b6f087a3bef759b2802ec542f5c0a04",
+    ".git/objects/6e/257a9a1cd056a517c6d8cc663f7540cbda8a96",
     ".git/objects/6e/e2ec2ae534606c5a2e58cd696c039116a0a66c",
     ".git/objects/6f/c5e9800ca6fcff6aa2c780b7735b3b22da17a4",
+    ".git/objects/70/f0495afde36c0c79aa328e79bcdf20c6a98ac6",
+    ".git/objects/71/5fade0189ec7a24417926116f249c706726ad5",
+    ".git/objects/71/bd422877baa6a8e6bb8e9f446c72fd45f2020e",
     ".git/objects/73/5f15c8c28ea341539ad1d13f0431ee76cf41a9",
     ".git/objects/78/1919bed701aece7083ee30f0320e46ce81d4bb",
     ".git/objects/7d/94c5a57edb978ff6ce9620bc0ecdf944801049",
@@ -689,7 +699,9 @@
     ".git/objects/8e/0fdb085c0d77868d4c42fb617e7fd3aee1b565",
     ".git/objects/8f/050aa913bc92515cf07f7de170dd9c73e46385",
     ".git/objects/8f/087bb936f5a7ec235c7b87088758acbeae0397",
+    ".git/objects/91/56ef92167573dfc706e686f37274f565bb59b9",
     ".git/objects/91/d21032256398de54f0575fdece9f132b36f782",
+    ".git/objects/92/5b0354e462873c1a3db521170426d5e7f17635",
     ".git/objects/94/a2efe59f80125fcbf96330d416ca67a59f9ec3",
     ".git/objects/95/4764e4ecb46338da10aeb1683c728a05911591",
     ".git/objects/96/1ae94a842db0f651b6d84fed51b867f91036b3",
@@ -702,10 +714,13 @@
     ".git/objects/9b/8e534863ff0b00bd1ac24dd1044f965d2eba71",
     ".git/objects/9b/e890a2f85e3ac65b70f6c2496f74f8fe979f13",
     ".git/objects/9c/a6c5a9202432939e662d67e496bce984cd5488",
+    ".git/objects/9c/ec85fa1a81647efc3b342ae31252cb7a4ac944",
     ".git/objects/9d/23a083edbeda9da61a70bd05178277c1e40470",
     ".git/objects/9d/3756b153bf0f36b76a424d160496ef920d8388",
+    ".git/objects/9e/26b0f1e6f630dc01b3ff29e017166a3ee9287f",
     ".git/objects/9e/987ffe40be6a9a9d0f3ca744511917e3a25bf8",
     ".git/objects/a0/55a55e33fee76c698799519afbde49f891f7b9",
+    ".git/objects/a2/45fbccb654a8d95edd3da02099fbc609e72bce",
     ".git/objects/a3/b8169c74d8c0171b552eaa9dfc080a308e8313",
     ".git/objects/a4/c07acef3f314b0cfa6e63f1c26e1643021465b",
     ".git/objects/a4/cf719e250019395842d5ed09aa733a09faf953",
@@ -730,6 +745,7 @@
     ".git/objects/ca/cfb40a36c3cf4ed4427983e8b5104233324591",
     ".git/objects/cb/3d9614431ec299c6efde5f666525f44ae948ad",
     ".git/objects/d0/7cd7c0c974b3a95c87e3c6ec52bd88323836ff",
+    ".git/objects/d3/69876dcc2f5e8bc9f1d322598695118065519f",
     ".git/objects/d4/6aa117c59bb582a8e1d0ee4a054ebfb96681ac",
     ".git/objects/d8/2b0a931c2d270dc5ef5f0ced10fced19aa0b06",
     ".git/objects/da/380e121928c953e7f1797cb0d1f8eece8e4efe",
@@ -765,6 +781,7 @@
     ".git/refs/tags/FW22.1.0-R13",
     ".git/refs/tags/FW22.1.0-R14",
     ".git/refs/tags/FW22.1.0-R15",
+    ".git/refs/tags/FW22.1.0-R16",
     ".git/refs/tags/FW22.1.0-R3",
     ".git/refs/tags/FW22.1.0-R5",
     ".git/refs/tags/FW22.1.0-R6",
@@ -1212,18 +1229,6 @@
     "config/ultrahand/flags/NOTIFICATIONS.flag",
     "config/ultrahand/overlays.ini",
     "config/ultrahand/theme.ini",
-    "emuMMC/SD00/eMMC/00",
-    "emuMMC/SD00/eMMC/01",
-    "emuMMC/SD00/eMMC/02",
-    "emuMMC/SD00/eMMC/03",
-    "emuMMC/SD00/eMMC/04",
-    "emuMMC/SD00/eMMC/05",
-    "emuMMC/SD00/eMMC/06",
-    "emuMMC/SD00/eMMC/07",
-    "emuMMC/SD00/eMMC/BOOT0",
-    "emuMMC/SD00/eMMC/BOOT1",
-    "emuMMC/SD00/file_based",
-    "emuMMC/emummc.ini",
     "exosphere.ini",
     "flycast/data/boxart/169575722.png",
     "flycast/data/boxart/172001898.png",
@@ -1256,7 +1261,6 @@
     "flycast/emu.cfg",
     "hbmenu.nro",
     "info.json",
-    "lennytube.zip",
     "manifest.install",
     "manifest.json",
     "payload.bin",
@@ -1399,8 +1403,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 3812,
-    "included_files": 1016,
+    "total_files_on_disk": 3816,
+    "included_files": 1020,
     "excluded_files": 2796,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1435,6 +1439,6 @@
       "atmosphere/erpt_reports/3b67cf8e-4693-ab4b-6020-6bae7fbcc376"
     ],
     "detected_apps": 31,
-    "untagged_files": 807
+    "untagged_files": 811
   }
 }
