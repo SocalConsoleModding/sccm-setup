@@ -16,9 +16,6 @@
 /tico/system/**
 !/tico/system/**/.gitkeep
 
-# Game bundles
-AAA-NSPS/
-
 # Loose game files anywhere
 *.nsp
 *.nsz
@@ -30,13 +27,14 @@ AAA-NSPS/
 # homebrew launch path stops working.
 !hbl.nsp
 !atmosphere/hbl.nsp
+# AAA-NSPS/ holds small homebrew forwarder NSPs (DBI, hbmenu, Tico launcher
+# stubs), not game ROMs — re-include the whole folder. This negation must
+# come AFTER the *.nsp rule above so git keeps the files.
+!/AAA-NSPS/
+!/AAA-NSPS/**
 
 # ─── Nintendo proprietary keys ───────────────────────────────────────────────
 *.keys
-
-# ─── sys-patch (per maintainer policy) ───────────────────────────────────────
-atmosphere/contents/420000000000000B/
-switch/.overlays/sys-patch-overlay.ovl
 
 # ─── Lockpick (DMCA'd on GitHub, keep-quiet maintainer policy) ───────────────
 bootloader/payloads/Lockpick_RCM.bin

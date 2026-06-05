@@ -1,11 +1,11 @@
-# SCCM Setup FW22.1.0 R17
+# SCCM Setup FW22.1.0 R18
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.1.0**. Revision: **17**. Generated: 2026-05-30T15:00:48+00:00.
+Target firmware: **22.1.0**. Revision: **18**. Generated: 2026-06-05T01:10:35+00:00.
 
 ## Release notes
 
-updated Ultrahand, status monitor overlay, moonlight, and nxthemes installer
+updated some homebrew apps
 
 ## Included
 
@@ -32,9 +32,9 @@ updated Ultrahand, status monitor overlay, moonlight, and nxthemes installer
 | AIO Switch Updater | `2.23.3` | [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
 | Breeze | `beta104.4` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
 | Checkpoint | `v3.12.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
-| CyberFoil | `1.4.4` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
-| DBI (English) | `—` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
-| DBI (Russian) | `—` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
+| CyberFoil | `1.4.5` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
+| DBI (English) | `895` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
+| DBI (Russian) | `895ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
@@ -44,7 +44,7 @@ updated Ultrahand, status monitor overlay, moonlight, and nxthemes installer
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
 | Sphaira | `1.0.0` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | Themezer | `3.0.0` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
-| Tico | `0.7.1` | [ticohq/tico](https://github.com/ticohq/tico) |
+| Tico | `0.7.2` | [ticohq/tico](https://github.com/ticohq/tico) |
 | TinWoo | `1.0.28` | [mrdude2478/Tinwoo-Release](https://github.com/mrdude2478/Tinwoo-Release) |
 
 ### Overlays
