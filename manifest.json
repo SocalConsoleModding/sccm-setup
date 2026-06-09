@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.1.0 R18",
+  "setup_version": "FW22.1.0 R19",
   "target_firmware": "22.1.0",
-  "revision": 18,
-  "generated_at": "2026-06-09T15:43:50+00:00",
-  "release_note": "updated some homebrew apps",
+  "revision": 19,
+  "generated_at": "2026-06-09T15:44:32+00:00",
+  "release_note": "Updated status monitor overlay and added MelonDS",
   "apps": [
     {
       "id": "atmosphere",
