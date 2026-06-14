@@ -1,7 +1,7 @@
-# SCCM Setup FW22.1.0 R19
+# SCCM Setup FW22.1.0 R21
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.1.0**. Revision: **19**. Generated: 2026-06-09T15:44:32+00:00.
+Target firmware: **22.1.0**. Revision: **21**. Generated: 2026-06-14T17:56:01+00:00.
 
 ## Release notes
 
@@ -44,7 +44,6 @@ Updated status monitor overlay and added MelonDS
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
 | Sphaira | `1.0.0` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | Themezer | `3.0.0` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
-| TinWoo | `1.0.28` | [mrdude2478/Tinwoo-Release](https://github.com/mrdude2478/Tinwoo-Release) |
 
 ### Overlays
 
@@ -53,9 +52,9 @@ Updated status monitor overlay and added MelonDS
 | FPSLocker | `3.3.2` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Quick-Reboot | `V2.2.0` | [eradicatinglove/Quick-Reboot](https://github.com/eradicatinglove/Quick-Reboot) |
 | QuickNTP | `1.6.0` | [nedex/QuickNTP](https://github.com/nedex/QuickNTP) |
-| Status Monitor Overlay | `v1.4.1+r1` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
+| Status Monitor Overlay | `v1.4.1+r2` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
 | Tesla Menu (ovlloader) | `v1.0.7` | [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) |
-| Ultrahand | `v2.4.4` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
+| Ultrahand | `v2.4.5` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
 
 ### Bootloader Payloads
 

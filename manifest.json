@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.1.0 R19",
+  "setup_version": "FW22.1.0 R21",
   "target_firmware": "22.1.0",
-  "revision": 19,
-  "generated_at": "2026-06-09T15:44:32+00:00",
+  "revision": 21,
+  "generated_at": "2026-06-14T17:56:01+00:00",
   "release_note": "Updated status monitor overlay and added MelonDS",
   "apps": [
     {
@@ -306,20 +306,6 @@
       "hidden": false
     },
     {
-      "id": "tinwoo",
-      "name": "TinWoo",
-      "repo": "mrdude2478/Tinwoo-Release",
-      "category": "nro",
-      "version": "1.0.28",
-      "release_date": "2024-08-21",
-      "files": [
-        "switch/tinwoo/tinwoo.nro"
-      ],
-      "size_bytes": 13748265,
-      "repo_url": "https://github.com/mrdude2478/Tinwoo-Release",
-      "hidden": false
-    },
-    {
       "id": "fpslocker",
       "name": "FPSLocker",
       "repo": "masagrator/FPSLocker",
@@ -367,8 +353,8 @@
       "name": "Status Monitor Overlay",
       "repo": "ppkantorski/Status-Monitor-Overlay",
       "category": "ovl",
-      "version": "v1.4.1+r1",
-      "release_date": "2026-06-05",
+      "version": "v1.4.1+r2",
+      "release_date": "2026-06-11",
       "files": [
         "switch/.overlays/Status-Monitor-Overlay.ovl"
       ],
@@ -397,12 +383,12 @@
       "name": "Ultrahand",
       "repo": "ppkantorski/Ultrahand-Overlay",
       "category": "ovl",
-      "version": "v2.4.4",
-      "release_date": "2026-05-27",
+      "version": "v2.4.5",
+      "release_date": "2026-06-11",
       "files": [
         "switch/.overlays/ovlmenu.ovl"
       ],
-      "size_bytes": 1200188,
+      "size_bytes": 1216572,
       "repo_url": "https://github.com/ppkantorski/Ultrahand-Overlay",
       "hidden": false
     },
@@ -583,7 +569,7 @@
         "switch/.overlays/sys-clk-overlay.ovl",
         "switch/sys-clk-manager.nro"
       ],
-      "size_bytes": 8111755,
+      "size_bytes": 8111712,
       "repo_url": "https://github.com/retronx-team/sys-clk",
       "hidden": false
     },
@@ -632,6 +618,7 @@
     ".git/logs/refs/remotes/origin/main",
     ".git/objects/00/b66592871d9ad94bb34e443cdbef64e78e2755",
     ".git/objects/02/3d1aa0870a23bea6e69cde83db10aa1df761a4",
+    ".git/objects/02/6fa11f2d2702724d468fa4d87cdd7824b7de86",
     ".git/objects/06/6e51e639db59fec5ff27dd99cb4d51f5f7af20",
     ".git/objects/0c/93b53c346aa78b44b04929a21b05acf30ac82f",
     ".git/objects/0c/bf7f88112e83766d8fbaee0de9496a4bbd0420",
@@ -653,10 +640,12 @@
     ".git/objects/1d/b2a212198b4411a31a4ddc236103b887175087",
     ".git/objects/21/a5580909761b70d4db6a4f24926ecf720235e9",
     ".git/objects/22/40f04d0460c9c3488e5f8f90cf0f8dd197645e",
+    ".git/objects/22/9b9c6149c713cacd8595ab41374d0a1ca0c83c",
     ".git/objects/25/cf11d48d4489a0e2509a818499afefa992273e",
     ".git/objects/26/f4c277dfa3d39e4dbe349211e9ae023562ef17",
     ".git/objects/27/5ad01961fbf4e9f32f11e5a9acb67a6490704c",
     ".git/objects/27/fdb784d927ede13e76eb1f28d24c017c2d4378",
+    ".git/objects/2d/c4385ea2f59153a53838ffe3a4ccf551ff728d",
     ".git/objects/2e/b7b4a20b2cf8ec37a31007bb282ae7c2a552e1",
     ".git/objects/2e/dbaa5c50078fca188b50e518e436f9bca1ffd3",
     ".git/objects/2f/0d5796e977647872ffda232dbef8804cdbadfb",
@@ -667,11 +656,14 @@
     ".git/objects/37/5aaa963127c10e6ddce422b3e83b49c779dc3f",
     ".git/objects/37/8c9b9bf1bbe0f674e2bd9651012455436d666b",
     ".git/objects/37/b85c8c1d7a94c06297d4268eac721d8baca8d4",
+    ".git/objects/39/09292630f33e1d1064db4aeb6faa6113349d22",
     ".git/objects/3a/cc620825e722061fc7c466cd40ecf357db67de",
     ".git/objects/3a/fe022690e00b0cb383f2939939a01f0545b5e3",
     ".git/objects/3d/f37a1100706b56976c91a3c69ba34ad764b6d6",
+    ".git/objects/3e/30df2aeb9b8298de1e6fb1cee040e0797c1bcc",
     ".git/objects/3e/d47868721e9c28ae2bc864a9fa1aa1f23f9139",
     ".git/objects/3f/33b35ddae92ad0c0c7064bbc4f41a9f8ede240",
+    ".git/objects/40/5c9f8f0178c51f2c6d350316185b8448276672",
     ".git/objects/41/089bf678a4b6f08150de014cc8739fdc41042a",
     ".git/objects/43/4c70f497bd8774727faa36c0d34bfd7a675119",
     ".git/objects/43/55b1c10b7513d085992cca21fdd1698947e030",
@@ -687,6 +679,7 @@
     ".git/objects/55/14975e4d569bfa642811f3e28f2670368598be",
     ".git/objects/55/1db70a1adda786bdfef09472e3442928fc6b1b",
     ".git/objects/55/ba5508b1c2a87a59cd5ca042647a051d9221f7",
+    ".git/objects/57/7a046ceb82dea7cf4c21cea75b61e75aae7569",
     ".git/objects/57/d00ba6a6cc86e70d9a8a60ad5cffb686e868f3",
     ".git/objects/59/d2ea99c016378516c96e4719afec33c08b5377",
     ".git/objects/5a/08a7508311e46f86a73c34879a66b0186aebb4",
@@ -714,8 +707,10 @@
     ".git/objects/6f/c5e9800ca6fcff6aa2c780b7735b3b22da17a4",
     ".git/objects/70/f0495afde36c0c79aa328e79bcdf20c6a98ac6",
     ".git/objects/71/5fade0189ec7a24417926116f249c706726ad5",
+    ".git/objects/71/b6519a7b04ed781ddc8891d46bf669ad39ab07",
     ".git/objects/71/bd422877baa6a8e6bb8e9f446c72fd45f2020e",
     ".git/objects/73/5f15c8c28ea341539ad1d13f0431ee76cf41a9",
+    ".git/objects/74/fddcd22e6de821951ae3aad2419b0e9abac924",
     ".git/objects/78/1919bed701aece7083ee30f0320e46ce81d4bb",
     ".git/objects/7d/94c5a57edb978ff6ce9620bc0ecdf944801049",
     ".git/objects/7d/cdcbbdfca5f5ca0907ddb5adacf91662269bd2",
@@ -733,7 +728,9 @@
     ".git/objects/90/06888ae873417ddc81db420b29e1bbd8965db2",
     ".git/objects/90/50a9389202c640f793282b77e7d020f8e4170f",
     ".git/objects/91/56ef92167573dfc706e686f37274f565bb59b9",
+    ".git/objects/91/9a042e92b859455f58ee0ac0940a093f8e32e2",
     ".git/objects/91/d21032256398de54f0575fdece9f132b36f782",
+    ".git/objects/91/f29ea53572ba7b0e1bf9e36f486573f554fde0",
     ".git/objects/92/5b0354e462873c1a3db521170426d5e7f17635",
     ".git/objects/94/a2efe59f80125fcbf96330d416ca67a59f9ec3",
     ".git/objects/95/4764e4ecb46338da10aeb1683c728a05911591",
@@ -766,6 +763,7 @@
     ".git/objects/a4/cf719e250019395842d5ed09aa733a09faf953",
     ".git/objects/a4/d9545854e8a342792c0058e03d8c6a8a61d2cd",
     ".git/objects/a6/234531387b7e4a28511bf75675b70a4631bca1",
+    ".git/objects/a8/e17cc573656c1804a77d2df3a6cdd7bc614941",
     ".git/objects/ab/41d35aed4394c1d5724c5e3a6e65f7722f3699",
     ".git/objects/ab/6104756b943c6fe6f1f30d3ecc46a7b3955297",
     ".git/objects/ac/ec9a05c7c1dd5d47ff4be50280bf35548d6ee6",
@@ -773,7 +771,9 @@
     ".git/objects/ae/1bc7a4f26a9e819d980dee714e9f8ef5a78228",
     ".git/objects/ae/6e18a5d12b7d37928040b6431b19ad94c3b7f9",
     ".git/objects/b0/30e45e9e9f47b3e6fba8c51c64ad19cf2b672e",
+    ".git/objects/b0/b2cb83d429ce63aca5c68d662e732f31f271bf",
     ".git/objects/b2/4cec96671c82dc97554862678efac9d357f812",
+    ".git/objects/b4/d22700df00cbe96215639c7dc32b0aedacc31e",
     ".git/objects/ba/b785dd276af48d018837f56249b8a0b17dc730",
     ".git/objects/bb/b92df6bc615d42c0e0c6e7a9b891772616964e",
     ".git/objects/bb/e98b4ef04c1917eaba6e5fa4bb7a2875e030ff",
@@ -788,6 +788,7 @@
     ".git/objects/c5/c7c6cb7b71de9696c5012379b90563921feffb",
     ".git/objects/c6/b13c4650099800b144e249aedb95f082fbc361",
     ".git/objects/c8/0fc1dca2109ce2a34aa479788743c1f97c8c36",
+    ".git/objects/c9/d7027b1f6126080bb1e8ebe25463f49de64f28",
     ".git/objects/ca/225762ebdd52b0600ea3bd0131d03bfc06b90a",
     ".git/objects/ca/cfb40a36c3cf4ed4427983e8b5104233324591",
     ".git/objects/cb/3d9614431ec299c6efde5f666525f44ae948ad",
@@ -800,6 +801,7 @@
     ".git/objects/d8/2b0a931c2d270dc5ef5f0ced10fced19aa0b06",
     ".git/objects/da/380e121928c953e7f1797cb0d1f8eece8e4efe",
     ".git/objects/da/488789a66d32e925588c365e9254fa10dc3908",
+    ".git/objects/da/85365176dd4f5942f4dfc1f2309bc9794f7758",
     ".git/objects/da/8c4209d3276fba5ef58da110907ee62a71b6de",
     ".git/objects/e2/8c9a36c92212e23585ef27e55a0dd35e6fec0d",
     ".git/objects/e2/c04489b80b1853b0a5619bccedb2f7b07624bf",
@@ -812,6 +814,7 @@
     ".git/objects/ee/d9c0b9210a1192bcde0275a9bf55f035fec6e2",
     ".git/objects/ef/5807cfa7206e0f3ca198cc9ec1280e2019e85a",
     ".git/objects/ef/9a75b13a5a171af0f454314ee56d0945ccf284",
+    ".git/objects/f1/27977d272f216f10e41591832bb498f3697e2b",
     ".git/objects/f1/86faef3b61b787a59e2cc42dedd33a5698606e",
     ".git/objects/f2/b723aa8428d02ae14a2e80dde9a1dbdaaf5fc4",
     ".git/objects/f3/3cbdad20450b51e537eb383f9c7c1e82271e2e",
@@ -837,6 +840,7 @@
     ".git/refs/tags/FW22.1.0-R16",
     ".git/refs/tags/FW22.1.0-R17",
     ".git/refs/tags/FW22.1.0-R18",
+    ".git/refs/tags/FW22.1.0-R19",
     ".git/refs/tags/FW22.1.0-R3",
     ".git/refs/tags/FW22.1.0-R5",
     ".git/refs/tags/FW22.1.0-R6",
@@ -1360,8 +1364,6 @@
     "switch/settings.ini",
     "switch/sphaira/cache/etag_v2.json",
     "switch/tico.nro",
-    "switch/tinfoil/keys.txt",
-    "switch/tinfoil/locations.conf.default",
     "themes/121FDD88B9A3EB71D99F936E45A0C76538C6B5AF000000000000000000000000.ips",
     "themes/154BECB1F64B08E685892C17742703E7C536C428000000000000000000000000.ips",
     "themes/33BDF80F27908568BBC09DFC0988D473BE113FA2000000000000000000000000.ips",
@@ -1464,8 +1466,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 3840,
-    "included_files": 1050,
+    "total_files_on_disk": 3855,
+    "included_files": 1065,
     "excluded_files": 2790,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1496,7 +1498,7 @@
       "atmosphere/erpt_reports/4138cd31-c159-164a-6b4b-a71cea8e85e4",
       "atmosphere/erpt_reports/43d4a031-a24c-9d4a-5bc7-363f2362c5ab"
     ],
-    "detected_apps": 31,
-    "untagged_files": 856
+    "detected_apps": 30,
+    "untagged_files": 872
   }
 }
