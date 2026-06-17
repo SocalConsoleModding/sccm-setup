@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.1.0 R21",
-  "target_firmware": "22.1.0",
-  "revision": 21,
-  "generated_at": "2026-06-14T17:56:01+00:00",
-  "release_note": "Updated status monitor overlay and added MelonDS",
+  "setup_version": "FW22.5.0 R22",
+  "target_firmware": "22.5.0",
+  "revision": 22,
+  "generated_at": "2026-06-17T01:18:19+00:00",
+  "release_note": "Updated for FW 22.5.0 support",
   "apps": [
     {
       "id": "atmosphere",
@@ -569,7 +569,7 @@
         "switch/.overlays/sys-clk-overlay.ovl",
         "switch/sys-clk-manager.nro"
       ],
-      "size_bytes": 8111712,
+      "size_bytes": 8111614,
       "repo_url": "https://github.com/retronx-team/sys-clk",
       "hidden": false
     },
@@ -578,15 +578,15 @@
       "name": "sys-patch",
       "repo": "impeeza/sys-patch",
       "category": "sys",
-      "version": "v1.6.2.0",
-      "release_date": "2026-05-10",
+      "version": "v1.6.2.2",
+      "release_date": "2026-06-16",
       "files": [
         "atmosphere/contents/420000000000000B/exefs.nsp",
         "atmosphere/contents/420000000000000B/flags/boot2.flag",
         "atmosphere/contents/420000000000000B/toolbox.json",
         "switch/.overlays/sys-patch-overlay.ovl"
       ],
-      "size_bytes": 349838,
+      "size_bytes": 349843,
       "repo_url": "https://github.com/impeeza/sys-patch",
       "hidden": true
     }
@@ -633,6 +633,7 @@
     ".git/objects/12/e1415c44e5fd9e250ec937e5e3411a858c7af1",
     ".git/objects/13/b8754f247d6d9c1498553f1f4d3da0ff869921",
     ".git/objects/15/35eb899e6c36e64eebe7d1d8d447f4162a25ae",
+    ".git/objects/19/de5b1773c09bc4c058d85d42a7412bec04982d",
     ".git/objects/1a/90a438a2e16e03d2cb4140e629029dc00061b8",
     ".git/objects/1b/315043cf179678931441fee4914b8570b86834",
     ".git/objects/1b/33bffc3596f5b128057a4f5367d87ac1c69919",
@@ -667,12 +668,14 @@
     ".git/objects/41/089bf678a4b6f08150de014cc8739fdc41042a",
     ".git/objects/43/4c70f497bd8774727faa36c0d34bfd7a675119",
     ".git/objects/43/55b1c10b7513d085992cca21fdd1698947e030",
+    ".git/objects/45/34e0ff5bbd85fa5a52b6db908286a4c88022c5",
     ".git/objects/45/73f5be51816626c67e80b20810f6f4cdd3f8b6",
     ".git/objects/48/990b3c2611d674a18b05a8d591eec9737b42b7",
     ".git/objects/49/2d4e18762943cc1887ac5292c8c77467d0584d",
     ".git/objects/4a/a3bbb9afa91aa9d16c6628e2088d122ab44d74",
     ".git/objects/4c/7f4cb2a6dba76c9c8a7ca0fe64fd2bec1b336b",
     ".git/objects/4f/1ee3d7cd553e1a13d0e7561f91d79ebe6c137e",
+    ".git/objects/50/550c42a08fe8e92fbfea428f8662ab56e4bc37",
     ".git/objects/50/d36e6fa21104aeb1c897f342fff9f4abb4b685",
     ".git/objects/51/adeb821aa1c719e11f8d3b5aa7f24bfcec27b5",
     ".git/objects/52/a9ed08b6916d7f1158844b2a65a6002193fd85",
@@ -712,8 +715,10 @@
     ".git/objects/73/5f15c8c28ea341539ad1d13f0431ee76cf41a9",
     ".git/objects/74/fddcd22e6de821951ae3aad2419b0e9abac924",
     ".git/objects/78/1919bed701aece7083ee30f0320e46ce81d4bb",
+    ".git/objects/7a/a10ecb3d4a067105f6d6904cf7a51c30b737b1",
     ".git/objects/7d/94c5a57edb978ff6ce9620bc0ecdf944801049",
     ".git/objects/7d/cdcbbdfca5f5ca0907ddb5adacf91662269bd2",
+    ".git/objects/7e/3233fae66fedf752efded7b8984108d2a2754b",
     ".git/objects/7e/98013ebd9e8ef4884a1bf66d43acd3220acc5c",
     ".git/objects/84/236ead57c0be3ba8a68e1ee184573d47123bbc",
     ".git/objects/87/0749e972465d0995c49db933e21c066cfb2fd3",
@@ -766,6 +771,7 @@
     ".git/objects/a8/e17cc573656c1804a77d2df3a6cdd7bc614941",
     ".git/objects/ab/41d35aed4394c1d5724c5e3a6e65f7722f3699",
     ".git/objects/ab/6104756b943c6fe6f1f30d3ecc46a7b3955297",
+    ".git/objects/ac/da98769b98137f8a727e0a240a09e2b996de58",
     ".git/objects/ac/ec9a05c7c1dd5d47ff4be50280bf35548d6ee6",
     ".git/objects/ad/9d5133084fdf2623f1100c028ea3f70aa08832",
     ".git/objects/ae/1bc7a4f26a9e819d980dee714e9f8ef5a78228",
@@ -778,8 +784,10 @@
     ".git/objects/bb/b92df6bc615d42c0e0c6e7a9b891772616964e",
     ".git/objects/bb/e98b4ef04c1917eaba6e5fa4bb7a2875e030ff",
     ".git/objects/bb/f557b56d9d09277fa941756dd5b7176089c29a",
+    ".git/objects/bc/a01fac192ae8d1041db5f878e9fe4a03e5429b",
     ".git/objects/bf/10bf9b39f8ad114894f3fdbb0f24f039171e60",
     ".git/objects/c0/b5264664e194093ea6f6c822cdbe7f504350bf",
+    ".git/objects/c2/9390f328602ef456152c3a7e4da648c50b4cc1",
     ".git/objects/c3/5e809f4307aa455e58943b4321951965b729bb",
     ".git/objects/c4/3cee0bb1eaf4b2d16209bf48aa7c3fece3d02e",
     ".git/objects/c4/51a44a63bb747efb0c8ede41319a7e6fb644ba",
@@ -841,6 +849,7 @@
     ".git/refs/tags/FW22.1.0-R17",
     ".git/refs/tags/FW22.1.0-R18",
     ".git/refs/tags/FW22.1.0-R19",
+    ".git/refs/tags/FW22.1.0-R21",
     ".git/refs/tags/FW22.1.0-R3",
     ".git/refs/tags/FW22.1.0-R5",
     ".git/refs/tags/FW22.1.0-R6",
@@ -1466,8 +1475,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 3855,
-    "included_files": 1065,
+    "total_files_on_disk": 3864,
+    "included_files": 1074,
     "excluded_files": 2790,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1499,6 +1508,6 @@
       "atmosphere/erpt_reports/43d4a031-a24c-9d4a-5bc7-363f2362c5ab"
     ],
     "detected_apps": 30,
-    "untagged_files": 872
+    "untagged_files": 881
   }
 }

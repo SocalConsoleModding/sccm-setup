@@ -1,11 +1,11 @@
-# SCCM Setup FW22.1.0 R21
+# SCCM Setup FW22.5.0 R22
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.1.0**. Revision: **21**. Generated: 2026-06-14T17:56:01+00:00.
+Target firmware: **22.5.0**. Revision: **22**. Generated: 2026-06-17T01:18:19+00:00.
 
 ## Release notes
 
-Updated status monitor overlay and added MelonDS
+Updated for FW 22.5.0 support
 
 ## Included
 
