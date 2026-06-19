@@ -1,11 +1,11 @@
-# SCCM Setup FW22.5.0 R22
+# SCCM Setup FW22.5.0 R23
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.5.0**. Revision: **22**. Generated: 2026-06-17T01:18:19+00:00.
+Target firmware: **22.5.0**. Revision: **23**. Generated: 2026-06-19T21:10:23+00:00.
 
 ## Release notes
 
-Updated for FW 22.5.0 support
+Updated several homebrew
 
 ## Included
 
@@ -13,15 +13,15 @@ Updated for FW 22.5.0 support
 
 | App | Version | Source |
 |---|---|---|
-| Atmosphere | `1.11.1` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
-| Hekate | `v6.5.2` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
+| Atmosphere | `1.11.2` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
+| Hekate | `v6.5.3` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
 
 ### Sysmodules
 
 | App | Version | Source |
 |---|---|---|
 | emuiibo | `1.1.3` | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) |
-| MissionControl | `v0.15.1` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
+| MissionControl | `v0.15.2` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
 | sys-clk | `2.0.1` | [retronx-team/sys-clk](https://github.com/retronx-team/sys-clk) |
 
 ### Homebrew Apps
@@ -30,11 +30,11 @@ Updated for FW 22.5.0 support
 |---|---|---|
 | 90DNS Tester | `v1.1.0` | [meganukebmp/Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) |
 | AIO Switch Updater | `2.23.3` | [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
-| Breeze | `beta104.4` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
+| Breeze | `beta108.4c` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
 | Checkpoint | `v3.12.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
 | CyberFoil | `1.4.5` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
 | DBI (English) | `895` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
-| DBI (Russian) | `895ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
+| DBI (Russian) | `902ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
