@@ -3,7 +3,7 @@
   "setup_version": "FW22.5.0 R23",
   "target_firmware": "22.5.0",
   "revision": 23,
-  "generated_at": "2026-06-19T21:10:23+00:00",
+  "generated_at": "2026-06-19T21:18:56+00:00",
   "release_note": "Updated several homebrew",
   "apps": [
     {
