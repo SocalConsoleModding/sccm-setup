@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.5.0 R25",
+  "setup_version": "FW22.5.0 R26",
   "target_firmware": "22.5.0",
-  "revision": 25,
-  "generated_at": "2026-06-21T15:18:29+00:00",
+  "revision": 26,
+  "generated_at": "2026-07-12T18:09:29+00:00",
   "release_note": "Updated several homebrew",
   "apps": [
     {
@@ -151,12 +151,12 @@
       "name": "Checkpoint",
       "repo": "FlagBrew/Checkpoint",
       "category": "nro",
-      "version": "v3.13.0",
-      "release_date": "2026-06-21",
+      "version": "v4.0.0",
+      "release_date": "2026-07-11",
       "files": [
         "switch/Checkpoint.nro"
       ],
-      "size_bytes": 10312309,
+      "size_bytes": 3792117,
       "repo_url": "https://github.com/FlagBrew/Checkpoint",
       "hidden": false
     },
@@ -179,12 +179,13 @@
       "name": "DBI (English)",
       "repo": "rashevskyv/DBIPatcher",
       "category": "nro",
-      "version": "895",
-      "release_date": "2026-05-02",
+      "version": "898",
+      "release_date": "2026-07-07",
       "files": [
+        "switch/DBI/DBI.nro",
         "switch/DBI/translation.bin"
       ],
-      "size_bytes": 653952,
+      "size_bytes": 12374477,
       "repo_url": "https://github.com/rashevskyv/DBIPatcher",
       "hidden": false
     },
@@ -334,12 +335,12 @@
       "name": "Themezer",
       "repo": "suchmememanyskill/themezer-nx",
       "category": "nro",
-      "version": "3.0.0",
-      "release_date": "2026-04-29",
+      "version": "3.2.1",
+      "release_date": "2026-07-05",
       "files": [
         "switch/ThemezerNX/themezer-nx.nro"
       ],
-      "size_bytes": 9700548,
+      "size_bytes": 9717532,
       "repo_url": "https://github.com/suchmememanyskill/themezer-nx",
       "hidden": false
     },
@@ -391,12 +392,12 @@
       "name": "Status Monitor Overlay",
       "repo": "ppkantorski/Status-Monitor-Overlay",
       "category": "ovl",
-      "version": "v1.4.1+r2",
-      "release_date": "2026-06-11",
+      "version": "v1.4.1+r3",
+      "release_date": "2026-06-24",
       "files": [
         "switch/.overlays/Status-Monitor-Overlay.ovl"
       ],
-      "size_bytes": 1163324,
+      "size_bytes": 1212476,
       "repo_url": "https://github.com/ppkantorski/Status-Monitor-Overlay",
       "hidden": false
     },
@@ -421,12 +422,12 @@
       "name": "Ultrahand",
       "repo": "ppkantorski/Ultrahand-Overlay",
       "category": "ovl",
-      "version": "v2.5.1",
-      "release_date": "2026-06-21",
+      "version": "v2.5.2",
+      "release_date": "2026-07-10",
       "files": [
         "switch/.overlays/ovlmenu.ovl"
       ],
-      "size_bytes": 1228860,
+      "size_bytes": 1237052,
       "repo_url": "https://github.com/ppkantorski/Ultrahand-Overlay",
       "hidden": false
     },
@@ -608,7 +609,7 @@
         "switch/.overlays/sys-clk-overlay.ovl",
         "switch/sys-clk-manager.nro"
       ],
-      "size_bytes": 8111591,
+      "size_bytes": 8111694,
       "repo_url": "https://github.com/retronx-team/sys-clk",
       "hidden": false
     },
@@ -719,6 +720,7 @@
     ".git/objects/31/f9f60f48fdc79111cc5bc0b2241f6865abc904",
     ".git/objects/32/1dbeade639812ca121675b59ee838dc3024641",
     ".git/objects/34/05a7a888b701eded2f9cef805804c1f44a1141",
+    ".git/objects/34/3e9af9cabf90cf86895f4b8ef3c4b12044f113",
     ".git/objects/34/b6d6efe2975fd9ca17fa9ca38207ef6725cfa1",
     ".git/objects/35/c553f075c7c0085eb4d440e35dd2ef2a23d0c5",
     ".git/objects/36/6cc60f9e3902f9bcbf564b3eabcc8ae7f77432",
@@ -805,6 +807,7 @@
     ".git/objects/74/fddcd22e6de821951ae3aad2419b0e9abac924",
     ".git/objects/78/1919bed701aece7083ee30f0320e46ce81d4bb",
     ".git/objects/78/7bd459fc740b9947b7294cbdcef69d0421e509",
+    ".git/objects/7a/9ee2b3ca30097a341c83041b733b6cf9d8d58e",
     ".git/objects/7a/a10ecb3d4a067105f6d6904cf7a51c30b737b1",
     ".git/objects/7c/90450bb27df6c566dd350a9cb5697c6b1e2c6e",
     ".git/objects/7d/060dd5cd6c65c21a453da24e28d561fc4e3417",
@@ -830,6 +833,7 @@
     ".git/objects/8f/087bb936f5a7ec235c7b87088758acbeae0397",
     ".git/objects/90/06888ae873417ddc81db420b29e1bbd8965db2",
     ".git/objects/90/50a9389202c640f793282b77e7d020f8e4170f",
+    ".git/objects/90/7af354d81c66e928615d7a90e9f09bac9c67aa",
     ".git/objects/91/56ef92167573dfc706e686f37274f565bb59b9",
     ".git/objects/91/9a042e92b859455f58ee0ac0940a093f8e32e2",
     ".git/objects/91/d21032256398de54f0575fdece9f132b36f782",
@@ -922,6 +926,7 @@
     ".git/objects/cb/2aa134c201c437bd088ac023d7e9613f171618",
     ".git/objects/cb/3d9614431ec299c6efde5f666525f44ae948ad",
     ".git/objects/cc/8d321e3e2bd1a5efaa437a61111abc3c739172",
+    ".git/objects/ce/add39a3b67c2ed53d3e48eab5f6913b65c8bf7",
     ".git/objects/cf/90e3c368491d7efa7c9715e872ee52a8f8524e",
     ".git/objects/d0/7cd7c0c974b3a95c87e3c6ec52bd88323836ff",
     ".git/objects/d1/2fa20364e323d5bd24425c347ed8541b396649",
@@ -941,6 +946,7 @@
     ".git/objects/db/05b16788ba05dd15fd0a66fe6bb1a535089ec9",
     ".git/objects/db/11dc1504d729546fcee043f1e95d8c15dfc139",
     ".git/objects/db/1494203b6a0d5736e50ca7c7c0b50092dc1e86",
+    ".git/objects/e2/6bd573823bc6e1f27a5cd52db5f137e029aa08",
     ".git/objects/e2/8c9a36c92212e23585ef27e55a0dd35e6fec0d",
     ".git/objects/e2/c04489b80b1853b0a5619bccedb2f7b07624bf",
     ".git/objects/e3/8f1e4323b67358d5cb2ea7403d601a6617bb63",
@@ -958,17 +964,21 @@
     ".git/objects/ef/9a75b13a5a171af0f454314ee56d0945ccf284",
     ".git/objects/f1/27977d272f216f10e41591832bb498f3697e2b",
     ".git/objects/f1/86faef3b61b787a59e2cc42dedd33a5698606e",
+    ".git/objects/f1/ec6e6f725f276b973783115fe8684f646ecc49",
+    ".git/objects/f2/a4ce292bb3ecc70f21c520bebb222b67d6c61d",
     ".git/objects/f2/b723aa8428d02ae14a2e80dde9a1dbdaaf5fc4",
     ".git/objects/f3/3cbdad20450b51e537eb383f9c7c1e82271e2e",
     ".git/objects/f3/948e574e1f244e8dffc443cde0f750cd4be4ea",
     ".git/objects/f5/182772f429f35bd0bb4845aa61d52ba9143d0d",
     ".git/objects/f6/26afea6ce25b2a8fc05e8a1e74520eb31e8999",
+    ".git/objects/f6/4c2edc1511f017c1f4aac24a9de0cb393c2d4f",
     ".git/objects/f7/645f2a6bfb755e38e9c007dc9b1e6c9d971412",
     ".git/objects/f7/84f2edd8bbdb540fa637f336b46a8b66ca75cc",
     ".git/objects/f7/9441cb68bc75fb568391b5064ffb9f8468420b",
     ".git/objects/f8/98731b5fa08298390bc779a2c7bf4147d25ec2",
     ".git/objects/f8/b2381d9ebd11add797d2bc34492f11a3a723ae",
     ".git/objects/f9/b6a4010690745db205857cb5d484d9f6dcda4c",
+    ".git/objects/f9/d098d658f107919df25042fe9f13304d642bbf",
     ".git/objects/f9/dcfcd58c2e3fbbf597adb991eba3c7b7f25498",
     ".git/objects/fb/a91e05092feabd07ef73c37bd83438c04036d0",
     ".git/objects/fc/436980eba6570992edb26f82c2057c046436cd",
@@ -1003,6 +1013,7 @@
     ".git/refs/tags/FW22.5.0-R22",
     ".git/refs/tags/FW22.5.0-R23",
     ".git/refs/tags/FW22.5.0-R24",
+    ".git/refs/tags/FW22.5.0-R25",
     ".gitignore",
     "AAA-NSPS/DBI English [01f394532d0e0000].nsp",
     "AAA-NSPS/aaa-nx-hbmenu [0156f6cc23220000].nsp",
@@ -1597,19 +1608,18 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 3975,
-    "included_files": 1182,
-    "excluded_files": 2793,
+    "total_files_on_disk": 3984,
+    "included_files": 1192,
+    "excluded_files": 2792,
     "excluded_by_category": {
       "os-cruft": 5,
-      "rom-ext": 2,
       "sccm-state": 5,
       "ams-runtime": 50,
+      "rom-ext": 1,
       "tico-sys": 2731
     },
     "excluded_sample": [
       ".DS_Store",
-      "melonDS Plus Switch [018CA4D7E5490000][release 13].nsp",
       ".sccm/custom_apps.json",
       ".sccm/diagnostics-20260619-141556.log",
       ".sccm/manifest.json",
@@ -1627,9 +1637,10 @@
       "atmosphere/erpt_reports/359dbfa0-099d-2548-449d-9241c690bb8c",
       "atmosphere/erpt_reports/3b67cf8e-4693-ab4b-6020-6bae7fbcc376",
       "atmosphere/erpt_reports/3c3098cf-44b0-b544-4bf8-40a0cfc8965e",
-      "atmosphere/erpt_reports/3cefe76c-beca-3e43-6ecf-650f3d00731f"
+      "atmosphere/erpt_reports/3cefe76c-beca-3e43-6ecf-650f3d00731f",
+      "atmosphere/erpt_reports/3e55896d-ed88-be4e-54ac-0f248f4654d5"
     ],
     "detected_apps": 31,
-    "untagged_files": 964
+    "untagged_files": 974
   }
 }

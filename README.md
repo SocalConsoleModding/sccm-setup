@@ -1,7 +1,7 @@
-# SCCM Setup FW22.5.0 R25
+# SCCM Setup FW22.5.0 R26
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.5.0**. Revision: **25**. Generated: 2026-06-21T15:18:29+00:00.
+Target firmware: **22.5.0**. Revision: **26**. Generated: 2026-07-12T18:09:29+00:00.
 
 ## Release notes
 
@@ -31,9 +31,9 @@ Updated several homebrew
 | 90DNS Tester | `v1.1.0` | [meganukebmp/Switch_90DNS_tester](https://github.com/meganukebmp/Switch_90DNS_tester) |
 | AIO Switch Updater | `2.23.3` | [HamletDuFromage/aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
 | Breeze | `beta108.4c` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
-| Checkpoint | `v3.13.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
+| Checkpoint | `v4.0.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
 | CyberFoil | `1.4.5` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
-| DBI (English) | `895` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
+| DBI (English) | `898` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | DBI (Russian) | `902ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
@@ -44,7 +44,7 @@ Updated several homebrew
 | Reboot to Payload | `v1.3.2` | [Hartie95/fastCFWswitch](https://github.com/Hartie95/fastCFWswitch) |
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
 | Sphaira | `1.0.0` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
-| Themezer | `3.0.0` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
+| Themezer | `3.2.1` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
 
 ### Overlays
 
@@ -53,9 +53,9 @@ Updated several homebrew
 | FPSLocker | `3.3.2` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Quick-Reboot | `V2.2.0` | [eradicatinglove/Quick-Reboot](https://github.com/eradicatinglove/Quick-Reboot) |
 | QuickNTP | `1.6.0` | [nedex/QuickNTP](https://github.com/nedex/QuickNTP) |
-| Status Monitor Overlay | `v1.4.1+r2` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
+| Status Monitor Overlay | `v1.4.1+r3` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
 | Tesla Menu (ovlloader) | `v1.0.7` | [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) |
-| Ultrahand | `v2.5.1` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
+| Ultrahand | `v2.5.2` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
 
 ### Bootloader Payloads
 
