@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "setup_version": "FW22.5.0 R26",
+  "setup_version": "FW22.5.0 R28",
   "target_firmware": "22.5.0",
-  "revision": 26,
-  "generated_at": "2026-07-12T18:09:29+00:00",
+  "revision": 28,
+  "generated_at": "2026-08-03T14:02:45+00:00",
   "release_note": "Updated several homebrew",
   "apps": [
     {
@@ -151,12 +151,12 @@
       "name": "Checkpoint",
       "repo": "FlagBrew/Checkpoint",
       "category": "nro",
-      "version": "v4.0.0",
-      "release_date": "2026-07-11",
+      "version": "v5.0.0",
+      "release_date": "2026-07-26",
       "files": [
         "switch/Checkpoint.nro"
       ],
-      "size_bytes": 3792117,
+      "size_bytes": 4804765,
       "repo_url": "https://github.com/FlagBrew/Checkpoint",
       "hidden": false
     },
@@ -194,13 +194,13 @@
       "name": "DBI (Russian)",
       "repo": "rashevskyv/dbi",
       "category": "nro",
-      "version": "902ru",
-      "release_date": "2026-06-19",
+      "version": "905ru",
+      "release_date": "2026-07-17",
       "files": [
         "switch/DBI_RU/DBI.nro",
         "switch/DBI_RU/dbi.config"
       ],
-      "size_bytes": 11758386,
+      "size_bytes": 16165682,
       "repo_url": "https://github.com/rashevskyv/dbi",
       "hidden": false
     },
@@ -392,12 +392,12 @@
       "name": "Status Monitor Overlay",
       "repo": "ppkantorski/Status-Monitor-Overlay",
       "category": "ovl",
-      "version": "v1.4.1+r3",
-      "release_date": "2026-06-24",
+      "version": "v1.4.1+r4",
+      "release_date": "2026-07-19",
       "files": [
         "switch/.overlays/Status-Monitor-Overlay.ovl"
       ],
-      "size_bytes": 1212476,
+      "size_bytes": 1228860,
       "repo_url": "https://github.com/ppkantorski/Status-Monitor-Overlay",
       "hidden": false
     },
@@ -422,12 +422,12 @@
       "name": "Ultrahand",
       "repo": "ppkantorski/Ultrahand-Overlay",
       "category": "ovl",
-      "version": "v2.5.2",
-      "release_date": "2026-07-10",
+      "version": "v2.5.3",
+      "release_date": "2026-07-17",
       "files": [
         "switch/.overlays/ovlmenu.ovl"
       ],
-      "size_bytes": 1237052,
+      "size_bytes": 1065020,
       "repo_url": "https://github.com/ppkantorski/Ultrahand-Overlay",
       "hidden": false
     },
@@ -609,7 +609,7 @@
         "switch/.overlays/sys-clk-overlay.ovl",
         "switch/sys-clk-manager.nro"
       ],
-      "size_bytes": 8111694,
+      "size_bytes": 8111693,
       "repo_url": "https://github.com/retronx-team/sys-clk",
       "hidden": false
     },
@@ -693,6 +693,7 @@
     ".git/objects/1a/90a438a2e16e03d2cb4140e629029dc00061b8",
     ".git/objects/1b/315043cf179678931441fee4914b8570b86834",
     ".git/objects/1b/33bffc3596f5b128057a4f5367d87ac1c69919",
+    ".git/objects/1b/53e96fcdfee472388d2d54afcdf4913fdc4fbe",
     ".git/objects/1c/1de3936bf935269d2c795cddb51065494221b6",
     ".git/objects/1d/1dcb1b8b61a52cfc30105f0b5a476403c0d07e",
     ".git/objects/1d/5c9735fcb761d17c7397667436eb057c1845ba",
@@ -802,11 +803,13 @@
     ".git/objects/71/5fade0189ec7a24417926116f249c706726ad5",
     ".git/objects/71/b6519a7b04ed781ddc8891d46bf669ad39ab07",
     ".git/objects/71/bd422877baa6a8e6bb8e9f446c72fd45f2020e",
+    ".git/objects/73/03dd280cafa0e1c60303946ce6a5dabc6bf4b6",
     ".git/objects/73/5f15c8c28ea341539ad1d13f0431ee76cf41a9",
     ".git/objects/73/fe49e6d0d385655084322ffeac987757788c69",
     ".git/objects/74/fddcd22e6de821951ae3aad2419b0e9abac924",
     ".git/objects/78/1919bed701aece7083ee30f0320e46ce81d4bb",
     ".git/objects/78/7bd459fc740b9947b7294cbdcef69d0421e509",
+    ".git/objects/7a/0eca360c6a222eebc79e820fe71e0830229188",
     ".git/objects/7a/9ee2b3ca30097a341c83041b733b6cf9d8d58e",
     ".git/objects/7a/a10ecb3d4a067105f6d6904cf7a51c30b737b1",
     ".git/objects/7c/90450bb27df6c566dd350a9cb5697c6b1e2c6e",
@@ -844,6 +847,7 @@
     ".git/objects/95/4764e4ecb46338da10aeb1683c728a05911591",
     ".git/objects/95/e829a41a08409c831287b77007284d9b53b92f",
     ".git/objects/96/1ae94a842db0f651b6d84fed51b867f91036b3",
+    ".git/objects/96/70a9e72ded86a197826dafa8b8e205babb3161",
     ".git/objects/96/ea9aa6371c870dece9f991b9113a22d261fd22",
     ".git/objects/97/c9e907b8b645b3225c155a9c4e51f58919705e",
     ".git/objects/98/9d0cfb3309a7726b6ee6e07bd8a5be63362dbd",
@@ -876,11 +880,13 @@
     ".git/objects/a1/ee0038a3a77c2a43b3e69d3b1ee05b08f56da6",
     ".git/objects/a2/45fbccb654a8d95edd3da02099fbc609e72bce",
     ".git/objects/a3/b8169c74d8c0171b552eaa9dfc080a308e8313",
+    ".git/objects/a4/0757cf42397bea5186d982ab48faa5a6ab099b",
     ".git/objects/a4/c07acef3f314b0cfa6e63f1c26e1643021465b",
     ".git/objects/a4/cf719e250019395842d5ed09aa733a09faf953",
     ".git/objects/a4/d9545854e8a342792c0058e03d8c6a8a61d2cd",
     ".git/objects/a6/234531387b7e4a28511bf75675b70a4631bca1",
     ".git/objects/a8/e17cc573656c1804a77d2df3a6cdd7bc614941",
+    ".git/objects/aa/a187a4b1260abbcf2cafab3a283a53ad339d55",
     ".git/objects/ab/41d35aed4394c1d5724c5e3a6e65f7722f3699",
     ".git/objects/ab/6104756b943c6fe6f1f30d3ecc46a7b3955297",
     ".git/objects/ac/da98769b98137f8a727e0a240a09e2b996de58",
@@ -906,9 +912,11 @@
     ".git/objects/bf/d17b64b9f0f20ab69d167917c82514b0d38199",
     ".git/objects/c0/b5264664e194093ea6f6c822cdbe7f504350bf",
     ".git/objects/c1/061a39303debe74948760ed6fd11fdf3031d1b",
+    ".git/objects/c1/4afa8fe5cf525d27a504319180af8baeae46b8",
     ".git/objects/c2/9390f328602ef456152c3a7e4da648c50b4cc1",
     ".git/objects/c3/53d01e6a8b562eaf09dce645a9bbb7e7c0d883",
     ".git/objects/c3/5e809f4307aa455e58943b4321951965b729bb",
+    ".git/objects/c3/cbb5669ce15e8dc1cfc0748d2f43986affe55e",
     ".git/objects/c4/3cee0bb1eaf4b2d16209bf48aa7c3fece3d02e",
     ".git/objects/c4/51a44a63bb747efb0c8ede41319a7e6fb644ba",
     ".git/objects/c4/53fe788dcf0474f271297775f6b287d707bac9",
@@ -918,6 +926,7 @@
     ".git/objects/c5/a6d6cbdfdd1945798cba2cebb0dd270cf10011",
     ".git/objects/c5/c7c6cb7b71de9696c5012379b90563921feffb",
     ".git/objects/c6/b13c4650099800b144e249aedb95f082fbc361",
+    ".git/objects/c6/b22801f20be0ae78080873edda596dca8a5896",
     ".git/objects/c7/5964e70a4e903c40826dc1c541e07033516bcf",
     ".git/objects/c8/0fc1dca2109ce2a34aa479788743c1f97c8c36",
     ".git/objects/c9/d7027b1f6126080bb1e8ebe25463f49de64f28",
@@ -926,10 +935,12 @@
     ".git/objects/cb/2aa134c201c437bd088ac023d7e9613f171618",
     ".git/objects/cb/3d9614431ec299c6efde5f666525f44ae948ad",
     ".git/objects/cc/8d321e3e2bd1a5efaa437a61111abc3c739172",
+    ".git/objects/ce/0ba3d4bcfec47edf1df54459395991c27f5ff4",
     ".git/objects/ce/add39a3b67c2ed53d3e48eab5f6913b65c8bf7",
     ".git/objects/cf/90e3c368491d7efa7c9715e872ee52a8f8524e",
     ".git/objects/d0/7cd7c0c974b3a95c87e3c6ec52bd88323836ff",
     ".git/objects/d1/2fa20364e323d5bd24425c347ed8541b396649",
+    ".git/objects/d1/34e70ddbcc8344b49af225c2b4fbb0fba61aa2",
     ".git/objects/d2/23e0bbafaa41b9a426ba568cd2cb15ada1ddc2",
     ".git/objects/d2/f731d072260625cfc7447a540852731950129d",
     ".git/objects/d3/69876dcc2f5e8bc9f1d322598695118065519f",
@@ -951,6 +962,7 @@
     ".git/objects/e2/c04489b80b1853b0a5619bccedb2f7b07624bf",
     ".git/objects/e3/8f1e4323b67358d5cb2ea7403d601a6617bb63",
     ".git/objects/e4/5304107cb70762a0455ac904447886a95bcc52",
+    ".git/objects/e6/03a7357209c8e3db9b7650045195e4b2ec01dc",
     ".git/objects/e6/9b811f57fbe047f42c4814c0c9400da8d37d72",
     ".git/objects/e8/91a3410d6efb2ebb42d777f6ae6acc48595e9e",
     ".git/objects/e8/c52b2933dc5dcb6370a6059480ded13fd01c2d",
@@ -963,6 +975,7 @@
     ".git/objects/ef/5807cfa7206e0f3ca198cc9ec1280e2019e85a",
     ".git/objects/ef/9a75b13a5a171af0f454314ee56d0945ccf284",
     ".git/objects/f1/27977d272f216f10e41591832bb498f3697e2b",
+    ".git/objects/f1/800c798f5028d28880471fead92f682c4c76f8",
     ".git/objects/f1/86faef3b61b787a59e2cc42dedd33a5698606e",
     ".git/objects/f1/ec6e6f725f276b973783115fe8684f646ecc49",
     ".git/objects/f2/a4ce292bb3ecc70f21c520bebb222b67d6c61d",
@@ -983,9 +996,11 @@
     ".git/objects/fb/a91e05092feabd07ef73c37bd83438c04036d0",
     ".git/objects/fc/436980eba6570992edb26f82c2057c046436cd",
     ".git/objects/fd/05b1e89e7e18b976fb7532424653f85869df25",
+    ".git/objects/fd/fd31d9bc5b9cd7ee5a4aeda5e2677d72f71d92",
     ".git/objects/fe/00bf1d177d9d37e880ce48b6e36b818c413f71",
     ".git/objects/fe/db39214447f133f2e571c21a1d85eb0c2be2e5",
     ".git/objects/ff/59f3d285a2486260a7e840388edf40988446e7",
+    ".git/objects/ff/fd16abc5efcdcc70a889778219bf66e0488fce",
     ".git/objects/info/commit-graph",
     ".git/objects/info/packs",
     ".git/objects/pack/pack-eeb0dc1158b258cb124892f2e69bda21d572061f.idx",
@@ -1014,6 +1029,7 @@
     ".git/refs/tags/FW22.5.0-R23",
     ".git/refs/tags/FW22.5.0-R24",
     ".git/refs/tags/FW22.5.0-R25",
+    ".git/refs/tags/FW22.5.0-R26",
     ".gitignore",
     "AAA-NSPS/DBI English [01f394532d0e0000].nsp",
     "AAA-NSPS/aaa-nx-hbmenu [0156f6cc23220000].nsp",
@@ -1483,7 +1499,6 @@
     "switch/.overlays/lang/Zing/zh-Hant.json",
     "switch/.overlays/ovlEdiZon.ovl",
     "switch/.overlays/ovlSysmodules.ovl",
-    "switch/DBI/DBI.nro",
     "switch/Fizeau/Fizeau.nro",
     "switch/Quick-Reboot/Quick-Reboot.nro",
     "switch/Ultrahand-Reload/Ultrahand-Reload.nro",
@@ -1608,8 +1623,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 3984,
-    "included_files": 1192,
+    "total_files_on_disk": 4000,
+    "included_files": 1208,
     "excluded_files": 2792,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1641,6 +1656,6 @@
       "atmosphere/erpt_reports/3e55896d-ed88-be4e-54ac-0f248f4654d5"
     ],
     "detected_apps": 31,
-    "untagged_files": 974
+    "untagged_files": 989
   }
 }
