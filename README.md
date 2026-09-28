@@ -1,10 +1,11 @@
-# SCCM Setup FW22.5.0 R29
+# SCCM Setup FW23.0.0 R1
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **22.5.0**. Revision: **29**. Generated: 2026-08-21T00:57:54+00:00.
+Target firmware: **23.0.0**. Revision: **1**. Generated: 2026-09-28T14:55:23+00:00.
 
 ## Release notes
 
+Updated for support for 23.0.0
 Updated several homebrew
 
 ## Included
@@ -13,8 +14,8 @@ Updated several homebrew
 
 | App | Version | Source |
 |---|---|---|
-| Atmosphere | `1.11.2` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
-| Hekate | `v6.5.3` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
+| Atmosphere | `1.12.0` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
+| Hekate | `v6.5.4` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
 
 ### Sysmodules
 
@@ -29,25 +30,25 @@ Updated several homebrew
 | App | Version | Source |
 |---|---|---|
 | Breeze | `beta108.4c` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
-| Checkpoint | `v5.0.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
-| CyberFoil | `1.4.5` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
-| DBI (English) | `898` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
-| DBI (Russian) | `905ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
+| Checkpoint | `v5.2.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
+| CyberFoil | `1.4.6` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
+| DBI (English) | `905` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
+| DBI (Russian) | `912ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
-| Goldleaf | `1.2.0` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
+| Goldleaf | `1.2.1` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
 | JKSV | `12/02/2025` | [J-D-K/JKSV](https://github.com/J-D-K/JKSV) |
 | Linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
 | Moonlight | `v1.5.0` | [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) |
-| NXThemes Installer | `nxt-2.9` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
+| NXThemes Installer | `nxt-3.0.2` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
-| Sphaira | `1.0.0` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
-| Themezer | `3.2.1` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
+| Sphaira | `1.0.7` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
+| Themezer | `3.3.0` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
 
 ### Overlays
 
 | App | Version | Source |
 |---|---|---|
-| FPSLocker | `3.3.2` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
+| FPSLocker | `3.4.0` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Quick-Reboot | `V2.2.0` | [eradicatinglove/Quick-Reboot](https://github.com/eradicatinglove/Quick-Reboot) |
 | QuickNTP | `1.6.0` | [nedex/QuickNTP](https://github.com/nedex/QuickNTP) |
 | Status Monitor Overlay | `v1.4.1+r4` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
