@@ -1,7 +1,7 @@
-# SCCM Setup FW23.0.0 R1
+# SCCM Setup FW23.0.0 R2
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **23.0.0**. Revision: **1**. Generated: 2026-09-28T14:55:23+00:00.
+Target firmware: **23.0.0**. Revision: **2**. Generated: 2026-10-05T17:21:08+00:00.
 
 ## Release notes
 
@@ -22,7 +22,7 @@ Updated several homebrew
 | App | Version | Source |
 |---|---|---|
 | emuiibo | `1.1.3` | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) |
-| MissionControl | `v0.15.2` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
+| MissionControl | `v0.16.0` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
 | sys-clk | `2.0.1` | [retronx-team/sys-clk](https://github.com/retronx-team/sys-clk) |
 
 ### Homebrew Apps
@@ -40,15 +40,16 @@ Updated several homebrew
 | Linkalho | `v2.0.2` | [impeeza/linkalho](https://github.com/impeeza/linkalho) |
 | Moonlight | `v1.5.0` | [XITRIX/Moonlight-Switch](https://github.com/XITRIX/Moonlight-Switch) |
 | NXThemes Installer | `nxt-3.0.2` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
+| Reboot to Payload | `v1.3.2` | [Hartie95/fastCFWswitch](https://github.com/Hartie95/fastCFWswitch) |
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
 | Sphaira | `1.0.7` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
-| Themezer | `3.3.0` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
+| Themezer | `3.3.1` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
 
 ### Overlays
 
 | App | Version | Source |
 |---|---|---|
-| FPSLocker | `3.4.0` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
+| FPSLocker | `3.5.0` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Quick-Reboot | `V2.2.0` | [eradicatinglove/Quick-Reboot](https://github.com/eradicatinglove/Quick-Reboot) |
 | QuickNTP | `1.6.0` | [nedex/QuickNTP](https://github.com/nedex/QuickNTP) |
 | Status Monitor Overlay | `v1.4.1+r4` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
