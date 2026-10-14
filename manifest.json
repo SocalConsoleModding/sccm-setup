@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "setup_version": "FW23.0.0 R2",
+  "setup_version": "FW23.0.0 R3",
   "target_firmware": "23.0.0",
-  "revision": 2,
-  "generated_at": "2026-10-14T17:13:50+00:00",
+  "revision": 3,
+  "generated_at": "2026-10-14T17:14:10+00:00",
   "release_note": "Updated for support for 23.0.0\nUpdated several homebrew",
   "apps": [
     {
