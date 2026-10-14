@@ -1,7 +1,7 @@
 # SCCM Setup FW23.0.0 R2
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **23.0.0**. Revision: **2**. Generated: 2026-10-05T17:21:08+00:00.
+Target firmware: **23.0.0**. Revision: **2**. Generated: 2026-10-14T17:13:50+00:00.
 
 ## Release notes
 
@@ -30,8 +30,8 @@ Updated several homebrew
 | App | Version | Source |
 |---|---|---|
 | Breeze | `beta108.4c` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
-| Checkpoint | `v5.2.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
-| CyberFoil | `1.4.6` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
+| Checkpoint | `v5.3.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
+| CyberFoil | `1.5.0` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
 | DBI (English) | `905` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | DBI (Russian) | `912ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
@@ -42,7 +42,7 @@ Updated several homebrew
 | NXThemes Installer | `nxt-3.0.2` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
 | Reboot to Payload | `v1.3.2` | [Hartie95/fastCFWswitch](https://github.com/Hartie95/fastCFWswitch) |
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
-| Sphaira | `1.0.7` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
+| Sphaira | `1.0.8` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | Themezer | `3.3.1` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
 
 ### Overlays
