@@ -1,7 +1,7 @@
-# SCCM Setup FW23.0.0 R3
+# SCCM Setup FW23.0.1 R1
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **23.0.0**. Revision: **3**. Generated: 2026-10-14T17:14:10+00:00.
+Target firmware: **23.0.1**. Revision: **1**. Generated: 2026-10-16T00:39:53+00:00.
 
 ## Release notes
 
@@ -14,7 +14,7 @@ Updated several homebrew
 
 | App | Version | Source |
 |---|---|---|
-| Atmosphere | `1.12.0` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
+| Atmosphere | `1.12.1` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
 | Hekate | `v6.5.4` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
 
 ### Sysmodules
@@ -32,7 +32,7 @@ Updated several homebrew
 | Breeze | `beta108.4c` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
 | Checkpoint | `v5.3.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
 | CyberFoil | `1.5.0` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
-| DBI (English) | `905` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
+| DBI (English) | `912` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | DBI (Russian) | `912ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.1` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
