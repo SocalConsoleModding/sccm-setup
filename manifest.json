@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "setup_version": "FW23.0.1 R1",
+  "setup_version": "FW23.0.1 R3",
   "target_firmware": "23.0.1",
-  "revision": 1,
-  "generated_at": "2026-10-16T00:39:53+00:00",
-  "release_note": "Updated for support for 23.0.0\nUpdated several homebrew",
+  "revision": 3,
+  "generated_at": "2026-10-19T18:51:40+00:00",
+  "release_note": "Updated for support for 23.0.1\nUpdated syspatch",
   "apps": [
     {
       "id": "atmosphere",
@@ -552,15 +552,15 @@
       "name": "sys-patch",
       "repo": "impeeza/sys-patch",
       "category": "sys",
-      "version": "v1.6.2.3",
-      "release_date": "2026-06-17",
+      "version": "v1.6.3.0",
+      "release_date": "2026-10-19",
       "files": [
         "atmosphere/contents/420000000000000B/exefs.nsp",
         "atmosphere/contents/420000000000000B/flags/boot2.flag",
         "atmosphere/contents/420000000000000B/toolbox.json",
         "switch/.overlays/sys-patch-overlay.ovl"
       ],
-      "size_bytes": 349841,
+      "size_bytes": 349850,
       "repo_url": "https://github.com/impeeza/sys-patch",
       "hidden": true
     }
@@ -597,8 +597,10 @@
     ".git/objects/02/3d1aa0870a23bea6e69cde83db10aa1df761a4",
     ".git/objects/02/6fa11f2d2702724d468fa4d87cdd7824b7de86",
     ".git/objects/02/827ada895bc6a6a61e158e6f4339bfec16b0e3",
+    ".git/objects/04/46d05b9685e0f3c3076a27b70b26e88ad48e51",
     ".git/objects/04/82bb3606cc51c4c6ab632b8daa53d0276472ee",
     ".git/objects/04/9e640cccf0eddc33f9a82420883ff6830498b6",
+    ".git/objects/06/6207612cd6e6ee8166eab22240b90d96e70416",
     ".git/objects/06/6e51e639db59fec5ff27dd99cb4d51f5f7af20",
     ".git/objects/06/78a28172b0ebaf0af0bd523086432cf97b0d60",
     ".git/objects/0a/d5d478c89c353878fdb94f804da5cedf22ebef",
@@ -622,6 +624,7 @@
     ".git/objects/13/8509811705f5d5b343cebb1917c38cb8efa591",
     ".git/objects/13/aa3a5ed3e265b7fb7d138d8577f96052880894",
     ".git/objects/13/b8754f247d6d9c1498553f1f4d3da0ff869921",
+    ".git/objects/14/06c44b484971f4e87b12330cac16740b7d5417",
     ".git/objects/14/18336e47cffeebae6a98cd0193fe54ba0810d2",
     ".git/objects/14/a7a1891c13c068f2d58329a10e916ea07b8f1a",
     ".git/objects/15/35eb899e6c36e64eebe7d1d8d447f4162a25ae",
@@ -635,6 +638,7 @@
     ".git/objects/18/8634da98d14536ce5b14cc2d36c02846e4903b",
     ".git/objects/19/878bf11184ed000925daab782b3b467b6a96cf",
     ".git/objects/19/de5b1773c09bc4c058d85d42a7412bec04982d",
+    ".git/objects/1a/6236a21012b0afa34e6f0bedc52155ae9dc334",
     ".git/objects/1a/90a438a2e16e03d2cb4140e629029dc00061b8",
     ".git/objects/1a/b02d7475fda3bb9bf89beedc16484570a1af80",
     ".git/objects/1a/ed9475dcb9f5bcefaf84e800661e808ffed932",
@@ -703,6 +707,7 @@
     ".git/objects/43/47fd21679253edaaa29f92b510f6e51b45f28e",
     ".git/objects/43/4c70f497bd8774727faa36c0d34bfd7a675119",
     ".git/objects/43/55b1c10b7513d085992cca21fdd1698947e030",
+    ".git/objects/43/d7f31a4915ca0e7bce53cb47f54637fe9f782e",
     ".git/objects/44/585aef3d2f131b1b83ec265da8a57ac96392ff",
     ".git/objects/44/5d5c6566ebce4ddde37cd733210dcc813fbe20",
     ".git/objects/44/c3d22ab965f23d07949d95db56e055da60e423",
@@ -727,6 +732,7 @@
     ".git/objects/4f/4c651e18ad657c91c8b7e2b08d7be1c19e794a",
     ".git/objects/50/4e2d60aa4426d042b465d3a9acc80c014fe824",
     ".git/objects/50/550c42a08fe8e92fbfea428f8662ab56e4bc37",
+    ".git/objects/50/bfa1f2c064487855dfbd49459a24b29833dde6",
     ".git/objects/50/d36e6fa21104aeb1c897f342fff9f4abb4b685",
     ".git/objects/51/adeb821aa1c719e11f8d3b5aa7f24bfcec27b5",
     ".git/objects/51/beeefbfa1427ac07a83a0c09445e23e3aade75",
@@ -766,6 +772,7 @@
     ".git/objects/67/b7d6a1d4378cf37b1e6c99ed24aee9df041107",
     ".git/objects/68/29fe9f16c1079770bfae1b3b7d2aeb282c048e",
     ".git/objects/68/3dd40cfe274803babe35c4cb10fc720e63e15d",
+    ".git/objects/68/5e57e5698f691170f22836df40c5d317544a7f",
     ".git/objects/68/fca46005c35887ff53469ece423c7af5e322cf",
     ".git/objects/69/07cbc3883f62e944d14dcd40402d08e9a7dff1",
     ".git/objects/69/0a97c0e480563079813292c26fa079ddd72aa1",
@@ -780,8 +787,10 @@
     ".git/objects/6d/10d252afbfa5a4eca39c19491ca9a93526a8c9",
     ".git/objects/6d/1a4281896b9ab5506fba32b9b946207d0c40c6",
     ".git/objects/6d/c0e3b07b6f087a3bef759b2802ec542f5c0a04",
+    ".git/objects/6d/f0899663251a95572d4077e4d0c888b736ff4d",
     ".git/objects/6d/ffa3178fc979756643a2819aab22ff8666c0aa",
     ".git/objects/6e/257a9a1cd056a517c6d8cc663f7540cbda8a96",
+    ".git/objects/6e/926a40691ce313947d36fe4cae225995ce3ccb",
     ".git/objects/6e/e2ec2ae534606c5a2e58cd696c039116a0a66c",
     ".git/objects/6f/c5e9800ca6fcff6aa2c780b7735b3b22da17a4",
     ".git/objects/6f/ef9c51d98ec2e2033696445b4918a60d09fde8",
@@ -926,6 +935,7 @@
     ".git/objects/b4/d22700df00cbe96215639c7dc32b0aedacc31e",
     ".git/objects/b5/3f1894849c6af15140186ed6e03306f0187fe5",
     ".git/objects/b5/88b9e8cf8b99d4636e1049edf44800e7cd274e",
+    ".git/objects/b6/f8de22a92ed310a7ffcc604f996076e2c4942e",
     ".git/objects/b8/7eb0621a7c84e70706be79037a5de6a7fda8a7",
     ".git/objects/b9/8895e3b0f4aca674d522a16d9ee85f04c4f6f5",
     ".git/objects/b9/9e92aa89c4ae3347ce4cbb88b63db2cb4bb4ef",
@@ -973,6 +983,7 @@
     ".git/objects/cb/62c8291991ab1cc907d896d8ce0cacfb1b42ac",
     ".git/objects/cc/8d321e3e2bd1a5efaa437a61111abc3c739172",
     ".git/objects/cc/f93e93f9b72a0612b29e7f8f1fe637372dd821",
+    ".git/objects/cd/091ff3376630bd677ef40eb220d1a9522a71ea",
     ".git/objects/ce/0ba3d4bcfec47edf1df54459395991c27f5ff4",
     ".git/objects/ce/4979343170e4e17975a5dc1e74b8dedcd0cca2",
     ".git/objects/ce/add39a3b67c2ed53d3e48eab5f6913b65c8bf7",
@@ -1004,6 +1015,7 @@
     ".git/objects/db/11dc1504d729546fcee043f1e95d8c15dfc139",
     ".git/objects/db/1494203b6a0d5736e50ca7c7c0b50092dc1e86",
     ".git/objects/df/0d0a67c97474921af23504f98ad752465e1d3e",
+    ".git/objects/e2/1ac648ef99aeb6124f9753c8c35bb62de37ea1",
     ".git/objects/e2/27f45eec8e507bc867b939c884873f80f29a1d",
     ".git/objects/e2/6bd573823bc6e1f27a5cd52db5f137e029aa08",
     ".git/objects/e2/8c9a36c92212e23585ef27e55a0dd35e6fec0d",
@@ -1012,6 +1024,7 @@
     ".git/objects/e3/c76d7991a0cc4dd74999f3ce5ac309708c8b40",
     ".git/objects/e4/5304107cb70762a0455ac904447886a95bcc52",
     ".git/objects/e5/cea422a263311904d48d8c67ea0cbe38ec74f8",
+    ".git/objects/e5/ece79c08f57b34dd147a2aef13a56d53057db9",
     ".git/objects/e6/03a7357209c8e3db9b7650045195e4b2ec01dc",
     ".git/objects/e6/9b811f57fbe047f42c4814c0c9400da8d37d72",
     ".git/objects/e8/91a3410d6efb2ebb42d777f6ae6acc48595e9e",
@@ -1027,6 +1040,7 @@
     ".git/objects/ed/b5d8afe99b91548f1de13097052a7a7ae8b5ec",
     ".git/objects/ed/ca4440db5aba9d6fb4ed00d4e2072c826145ba",
     ".git/objects/ee/08d8c0b1acd555b485f5ec5380bb272d71749b",
+    ".git/objects/ee/503ac14dd115eccc9c1cf696cc93fbe57e1ef3",
     ".git/objects/ee/d9c0b9210a1192bcde0275a9bf55f035fec6e2",
     ".git/objects/ef/5807cfa7206e0f3ca198cc9ec1280e2019e85a",
     ".git/objects/ef/9a75b13a5a171af0f454314ee56d0945ccf284",
@@ -1095,6 +1109,7 @@
     ".git/refs/tags/FW23.0.0-R1",
     ".git/refs/tags/FW23.0.0-R2",
     ".git/refs/tags/FW23.0.0-R3",
+    ".git/refs/tags/FW23.0.1-R1",
     ".gitignore",
     "AAA-NSPS/DBI English [01f394532d0e0000].nsp",
     "AAA-NSPS/aaa-nx-hbmenu [0156f6cc23220000].nsp",
@@ -1733,8 +1748,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 4137,
-    "included_files": 1345,
+    "total_files_on_disk": 4152,
+    "included_files": 1360,
     "excluded_files": 2792,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1766,6 +1781,6 @@
       "atmosphere/erpt_reports/3e55896d-ed88-be4e-54ac-0f248f4654d5"
     ],
     "detected_apps": 29,
-    "untagged_files": 1165
+    "untagged_files": 1180
   }
 }
