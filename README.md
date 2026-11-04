@@ -1,12 +1,11 @@
-# SCCM Setup FW23.0.1 R3
+# SCCM Setup FW23.0.1 R5
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **23.0.1**. Revision: **3**. Generated: 2026-10-19T18:51:40+00:00.
+Target firmware: **23.0.1**. Revision: **5**. Generated: 2026-11-04T19:04:58+00:00.
 
 ## Release notes
 
-Updated for support for 23.0.1
-Updated syspatch
+updated DBI translation, Cyberfoil, FPS locker, Sphaira
 
 ## Included
 
@@ -31,8 +30,8 @@ Updated syspatch
 |---|---|---|
 | Breeze | `beta108.4c` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
 | Checkpoint | `v5.3.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
-| CyberFoil | `1.5.0` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
-| DBI (English) | `912` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
+| CyberFoil | `1.5.1` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
+| DBI (English) | `921` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | DBI (Russian) | `912ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.1` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
@@ -42,14 +41,14 @@ Updated syspatch
 | NXThemes Installer | `nxt-3.0.2` | [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) |
 | Reboot to Payload | `v1.3.2` | [Hartie95/fastCFWswitch](https://github.com/Hartie95/fastCFWswitch) |
 | SimpleModManager | `2.1.4` | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) |
-| Sphaira | `1.0.8` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
+| Sphaira | `1.0.9` | [ITotalJustice/sphaira](https://github.com/ITotalJustice/sphaira) |
 | Themezer | `3.3.1` | [suchmememanyskill/themezer-nx](https://github.com/suchmememanyskill/themezer-nx) |
 
 ### Overlays
 
 | App | Version | Source |
 |---|---|---|
-| FPSLocker | `3.5.0` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
+| FPSLocker | `3.5.1` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Quick-Reboot | `V2.2.0` | [eradicatinglove/Quick-Reboot](https://github.com/eradicatinglove/Quick-Reboot) |
 | QuickNTP | `1.6.0` | [nedex/QuickNTP](https://github.com/nedex/QuickNTP) |
 | Status Monitor Overlay | `v1.4.1+r4` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |

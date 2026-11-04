@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "setup_version": "FW23.0.1 R3",
+  "setup_version": "FW23.0.1 R5",
   "target_firmware": "23.0.1",
-  "revision": 3,
-  "generated_at": "2026-10-19T18:51:40+00:00",
-  "release_note": "Updated for support for 23.0.1\nUpdated syspatch",
+  "revision": 5,
+  "generated_at": "2026-11-04T19:04:58+00:00",
+  "release_note": "updated DBI translation, Cyberfoil, FPS locker, Sphaira",
   "apps": [
     {
       "id": "atmosphere",
@@ -94,8 +94,8 @@
       "name": "CyberFoil",
       "repo": "luketanti/CyberFoil",
       "category": "nro",
-      "version": "1.5.0",
-      "release_date": "2026-10-13",
+      "version": "1.5.1",
+      "release_date": "2026-10-31",
       "files": [
         "switch/CyberFoil/cyberfoil.nro",
         "switch/CyberFoil/theme/crimson-night.json",
@@ -105,7 +105,7 @@
         "switch/CyberFoil/theme/oled-mint.json",
         "switch/CyberFoil/theme/violet-dusk.json"
       ],
-      "size_bytes": 15055089,
+      "size_bytes": 15120781,
       "repo_url": "https://github.com/luketanti/CyberFoil",
       "hidden": false
     },
@@ -114,13 +114,13 @@
       "name": "DBI (English)",
       "repo": "rashevskyv/DBIPatcher",
       "category": "nro",
-      "version": "912",
-      "release_date": "2026-10-15",
+      "version": "921",
+      "release_date": "2026-10-23",
       "files": [
         "switch/DBI/DBI.nro",
         "switch/DBI/translation.bin"
       ],
-      "size_bytes": 17455105,
+      "size_bytes": 17447489,
       "repo_url": "https://github.com/rashevskyv/DBIPatcher",
       "hidden": false
     },
@@ -256,12 +256,12 @@
       "name": "Sphaira",
       "repo": "ITotalJustice/sphaira",
       "category": "nro",
-      "version": "1.0.8",
-      "release_date": "2026-10-06",
+      "version": "1.0.9",
+      "release_date": "2026-11-01",
       "files": [
         "switch/sphaira/sphaira.nro"
       ],
-      "size_bytes": 5400237,
+      "size_bytes": 5531909,
       "repo_url": "https://github.com/ITotalJustice/sphaira",
       "hidden": false
     },
@@ -284,8 +284,8 @@
       "name": "FPSLocker",
       "repo": "masagrator/FPSLocker",
       "category": "ovl",
-      "version": "3.5.0",
-      "release_date": "2026-10-03",
+      "version": "3.5.1",
+      "release_date": "2026-10-29",
       "files": [
         "switch/.overlays/FPSLocker.ovl"
       ],
@@ -626,6 +626,7 @@
     ".git/objects/13/b8754f247d6d9c1498553f1f4d3da0ff869921",
     ".git/objects/14/06c44b484971f4e87b12330cac16740b7d5417",
     ".git/objects/14/18336e47cffeebae6a98cd0193fe54ba0810d2",
+    ".git/objects/14/63156dc2db82d1df1b0315b3c7022bb3ffadd1",
     ".git/objects/14/a7a1891c13c068f2d58329a10e916ea07b8f1a",
     ".git/objects/15/35eb899e6c36e64eebe7d1d8d447f4162a25ae",
     ".git/objects/16/533d9cbebf3df2eb74ee5477d863e23e73b8b1",
@@ -658,6 +659,7 @@
     ".git/objects/22/5b7f00bfc55e0c34fee06f703f214654ceac3a",
     ".git/objects/22/9b9c6149c713cacd8595ab41374d0a1ca0c83c",
     ".git/objects/24/04aa7cdaf8dc6bbe98f56fe9119a3831c6ca44",
+    ".git/objects/25/81cffc21e825b7add17772e6dd489ada9068ff",
     ".git/objects/25/cf11d48d4489a0e2509a818499afefa992273e",
     ".git/objects/26/20183ec13e475802c14a5a90da6c76005e0c8d",
     ".git/objects/26/c18939a5eb525587238ea9c5666aae29024118",
@@ -783,6 +785,7 @@
     ".git/objects/6c/1001cefa8ddbac8c7fa6897f5a106fcb061b16",
     ".git/objects/6c/a06509dae6a8c7ec444b352e3be76c285dd282",
     ".git/objects/6c/b732ffb5eeebdded32524c26d81511c99e316b",
+    ".git/objects/6c/e57934bcc061f754c6a1322ce04fc3cbf0a37b",
     ".git/objects/6d/0471692ebe98a201933c1294ef609818068d50",
     ".git/objects/6d/10d252afbfa5a4eca39c19491ca9a93526a8c9",
     ".git/objects/6d/1a4281896b9ab5506fba32b9b946207d0c40c6",
@@ -866,6 +869,7 @@
     ".git/objects/98/a8ef6687de0609d14db0f21deb1dd1b8fdb886",
     ".git/objects/99/3bdacad8616e16bbfc7c2fba218d7e965eb803",
     ".git/objects/99/6b22e806bd7365ae7a5b4f5f29b2530593eb07",
+    ".git/objects/99/bc047237c46ecbba774618b0b2829c6c5eeef4",
     ".git/objects/99/e3f2d1513314242580d2efa661c4242edab28f",
     ".git/objects/9a/3491c8b0676a85bf02e0244f011f939067a214",
     ".git/objects/9a/4c92575c1d59b786b8ec70994e43c8e8b3f826",
@@ -939,6 +943,7 @@
     ".git/objects/b8/7eb0621a7c84e70706be79037a5de6a7fda8a7",
     ".git/objects/b9/8895e3b0f4aca674d522a16d9ee85f04c4f6f5",
     ".git/objects/b9/9e92aa89c4ae3347ce4cbb88b63db2cb4bb4ef",
+    ".git/objects/ba/67ce5cc5c5d69fb5ff1cce4934b5b6a67a9fec",
     ".git/objects/ba/b785dd276af48d018837f56249b8a0b17dc730",
     ".git/objects/bb/b92df6bc615d42c0e0c6e7a9b891772616964e",
     ".git/objects/bb/e98b4ef04c1917eaba6e5fa4bb7a2875e030ff",
@@ -1014,6 +1019,7 @@
     ".git/objects/db/05b16788ba05dd15fd0a66fe6bb1a535089ec9",
     ".git/objects/db/11dc1504d729546fcee043f1e95d8c15dfc139",
     ".git/objects/db/1494203b6a0d5736e50ca7c7c0b50092dc1e86",
+    ".git/objects/dd/7aa531956544d14697e0112e8f8d8a7a5e8022",
     ".git/objects/df/0d0a67c97474921af23504f98ad752465e1d3e",
     ".git/objects/e2/1ac648ef99aeb6124f9753c8c35bb62de37ea1",
     ".git/objects/e2/27f45eec8e507bc867b939c884873f80f29a1d",
@@ -1024,6 +1030,7 @@
     ".git/objects/e3/c76d7991a0cc4dd74999f3ce5ac309708c8b40",
     ".git/objects/e4/5304107cb70762a0455ac904447886a95bcc52",
     ".git/objects/e5/cea422a263311904d48d8c67ea0cbe38ec74f8",
+    ".git/objects/e5/e9ac9febf1d7ca4c6927bdee58cb74a59fef9c",
     ".git/objects/e5/ece79c08f57b34dd147a2aef13a56d53057db9",
     ".git/objects/e6/03a7357209c8e3db9b7650045195e4b2ec01dc",
     ".git/objects/e6/9b811f57fbe047f42c4814c0c9400da8d37d72",
@@ -1071,6 +1078,7 @@
     ".git/objects/fd/05b1e89e7e18b976fb7532424653f85869df25",
     ".git/objects/fd/fd31d9bc5b9cd7ee5a4aeda5e2677d72f71d92",
     ".git/objects/fe/00bf1d177d9d37e880ce48b6e36b818c413f71",
+    ".git/objects/fe/31e73a38e78bcb5055fdda980e5f44a0da8154",
     ".git/objects/fe/b1dede6d7b3fff546d491e9b30ac560eee7633",
     ".git/objects/fe/db39214447f133f2e571c21a1d85eb0c2be2e5",
     ".git/objects/ff/59f3d285a2486260a7e840388edf40988446e7",
@@ -1110,6 +1118,7 @@
     ".git/refs/tags/FW23.0.0-R2",
     ".git/refs/tags/FW23.0.0-R3",
     ".git/refs/tags/FW23.0.1-R1",
+    ".git/refs/tags/FW23.0.1-R3",
     ".gitignore",
     "AAA-NSPS/DBI English [01f394532d0e0000].nsp",
     "AAA-NSPS/aaa-nx-hbmenu [0156f6cc23220000].nsp",
@@ -1748,8 +1757,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 4152,
-    "included_files": 1360,
+    "total_files_on_disk": 4161,
+    "included_files": 1369,
     "excluded_files": 2792,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1781,6 +1790,6 @@
       "atmosphere/erpt_reports/3e55896d-ed88-be4e-54ac-0f248f4654d5"
     ],
     "detected_apps": 29,
-    "untagged_files": 1180
+    "untagged_files": 1189
   }
 }
