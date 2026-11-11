@@ -1,7 +1,7 @@
-# SCCM Setup FW23.5.0 R1
+# SCCM Setup FW23.5.0 R2
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **23.5.0**. Revision: **1**. Generated: 2026-11-11T15:19:33+00:00.
+Target firmware: **23.5.0**. Revision: **2**. Generated: 2026-11-11T17:57:27+00:00.
 
 ## Release notes
 
@@ -14,7 +14,7 @@ Updated for 23.5.0 support
 | App | Version | Source |
 |---|---|---|
 | Atmosphere | `1.12.2` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
-| Hekate | `v6.5.4` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
+| Hekate | `v6.5.5` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
 
 ### Sysmodules
 
