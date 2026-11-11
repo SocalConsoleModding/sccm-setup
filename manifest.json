@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "setup_version": "FW23.0.1 R8",
-  "target_firmware": "23.0.1",
-  "revision": 8,
-  "generated_at": "2026-11-10T23:28:53+00:00",
-  "release_note": "fixes for DBI translation",
+  "setup_version": "FW23.5.0 R1",
+  "target_firmware": "23.5.0",
+  "revision": 1,
+  "generated_at": "2026-11-11T15:19:33+00:00",
+  "release_note": "Updated for 23.5.0 support",
   "apps": [
     {
       "id": "atmosphere",
       "name": "Atmosphere",
       "repo": "Atmosphere-NX/Atmosphere",
       "category": "cfw",
-      "version": "1.12.1",
-      "release_date": "2026-10-16",
+      "version": "1.12.2",
+      "release_date": "2026-11-11",
       "files": [
         "atmosphere/config_templates/exosphere.ini",
         "atmosphere/config_templates/override_config.ini",
@@ -28,7 +28,7 @@
         "switch/haze.nro",
         "switch/reboot_to_payload.nro"
       ],
-      "size_bytes": 13513072,
+      "size_bytes": 13512904,
       "repo_url": "https://github.com/Atmosphere-NX/Atmosphere",
       "hidden": false
     },
@@ -327,12 +327,12 @@
       "name": "Status Monitor Overlay",
       "repo": "ppkantorski/Status-Monitor-Overlay",
       "category": "ovl",
-      "version": "v1.4.1+r4",
-      "release_date": "2026-07-19",
+      "version": "v1.4.1+r5",
+      "release_date": "2026-11-08",
       "files": [
         "switch/.overlays/Status-Monitor-Overlay.ovl"
       ],
-      "size_bytes": 1228860,
+      "size_bytes": 1253436,
       "repo_url": "https://github.com/ppkantorski/Status-Monitor-Overlay",
       "hidden": false
     },
@@ -357,12 +357,12 @@
       "name": "Ultrahand",
       "repo": "ppkantorski/Ultrahand-Overlay",
       "category": "ovl",
-      "version": "v2.5.3",
-      "release_date": "2026-07-17",
+      "version": "v2.5.4",
+      "release_date": "2026-11-08",
       "files": [
         "switch/.overlays/ovlmenu.ovl"
       ],
-      "size_bytes": 1065020,
+      "size_bytes": 1077308,
       "repo_url": "https://github.com/ppkantorski/Ultrahand-Overlay",
       "hidden": false
     },
@@ -426,8 +426,8 @@
       "name": "MissionControl",
       "repo": "ndeadly/MissionControl",
       "category": "sys",
-      "version": "v0.16.0",
-      "release_date": "2026-10-02",
+      "version": "v0.16.1",
+      "release_date": "2026-11-11",
       "files": [
         "atmosphere/contents/010000000000bd00/exefs.nsp",
         "atmosphere/contents/010000000000bd00/flags/boot2.flag",
@@ -499,17 +499,14 @@
         "atmosphere/exefs_patches/btm_patches/FE1CFC6CE0B8F5A3C779ED67C9EF8C08DE959AE9.ips",
         "atmosphere/exefs_patches/hid_patches/0ABCF878B3E22287ABD15F1F73B365DB26A4E124.ips",
         "atmosphere/exefs_patches/hid_patches/0F02EFFAEF77015948F635C1559FC32507074451.ips",
-        "atmosphere/exefs_patches/hid_patches/12DB6C7DF6BF40BC02695C611EC46F458504A5AD.ips",
         "atmosphere/exefs_patches/hid_patches/1780B569DE805B4E9AFBCC366D93BB313DCBA67E.ips",
         "atmosphere/exefs_patches/hid_patches/296FB63B038723955A5EEE4720C3E17BF49B5ECC.ips",
         "atmosphere/exefs_patches/hid_patches/2ABBA006E9E162C1EF0A28E6477725F2836FFEC9.ips",
-        "atmosphere/exefs_patches/hid_patches/403978CD2BC64E4ACB3BF1A5E556F582BFC3498B.ips",
         "atmosphere/exefs_patches/hid_patches/453AF9911A69ED566732A7AF2BF54B0B50BC3255.ips",
         "atmosphere/exefs_patches/hid_patches/47BCA8366FC3D4C9E86592E8FC42485989E69CCB.ips",
         "atmosphere/exefs_patches/hid_patches/6AC68185D4597477D9AD8A2EBE014733F2BCB104.ips",
         "atmosphere/exefs_patches/hid_patches/74480E653551A0415F90CD61E4B851C60E71E674.ips",
         "atmosphere/exefs_patches/hid_patches/765B710D7D40049E06C1326F5B57123B74A2E4AD.ips",
-        "atmosphere/exefs_patches/hid_patches/8BDBD223E61D122E98CDBFC77C231BBB5CBE56E3.ips",
         "atmosphere/exefs_patches/hid_patches/98EB0277ADFC171F79765FCC8A56674AE39B08FC.ips",
         "atmosphere/exefs_patches/hid_patches/9A1F471859D99957A81B2FC21169EE4DBC191734.ips",
         "atmosphere/exefs_patches/hid_patches/A2F71DB9568A864B8AC81AC79E2735A53A9CD291.ips",
@@ -523,12 +520,13 @@
         "atmosphere/exefs_patches/hid_patches/CA1A12452AF8789F5D03BF2A70260CE80D7DA5C4.ips",
         "atmosphere/exefs_patches/hid_patches/CEE923637C0797454FBE98A64F63D2B9F39B62FC.ips",
         "atmosphere/exefs_patches/hid_patches/CFCBD39A38FC2E8FC1273B4B5BF7C619FA93579E.ips",
+        "atmosphere/exefs_patches/hid_patches/D209357BF939276179EF943C8DC88E482C7F588E.ips",
         "atmosphere/exefs_patches/hid_patches/D7E71B92FAFD5E6D670F36593D98DC30AD15A24F.ips",
         "atmosphere/exefs_patches/hid_patches/E5139E8D47BE57C31DA97FCFBB66472416D60BD1.ips",
         "atmosphere/exefs_patches/hid_patches/FA528960A4ED9B4C408D2667BFE7C8BCD80E1FE2.ips",
         "config/MissionControl/missioncontrol.ini.template"
       ],
-      "size_bytes": 228611,
+      "size_bytes": 229020,
       "repo_url": "https://github.com/ndeadly/MissionControl",
       "hidden": false
     },
@@ -600,6 +598,7 @@
     ".git/objects/04/46d05b9685e0f3c3076a27b70b26e88ad48e51",
     ".git/objects/04/82bb3606cc51c4c6ab632b8daa53d0276472ee",
     ".git/objects/04/9e640cccf0eddc33f9a82420883ff6830498b6",
+    ".git/objects/05/d9c711efcf268d700a99ab20c67cb81fd8671e",
     ".git/objects/06/6207612cd6e6ee8166eab22240b90d96e70416",
     ".git/objects/06/6e51e639db59fec5ff27dd99cb4d51f5f7af20",
     ".git/objects/06/78a28172b0ebaf0af0bd523086432cf97b0d60",
@@ -675,10 +674,12 @@
     ".git/objects/2e/b7b4a20b2cf8ec37a31007bb282ae7c2a552e1",
     ".git/objects/2e/dbaa5c50078fca188b50e518e436f9bca1ffd3",
     ".git/objects/2f/0d5796e977647872ffda232dbef8804cdbadfb",
+    ".git/objects/2f/1991e9c6de177ce3d9a335c63a358c93200196",
     ".git/objects/2f/86b30a2df4b0695a3a8441c577ec2ddce88e32",
     ".git/objects/2f/de92f95a4d715a0cabf599526c88a54097786a",
     ".git/objects/30/a003fd37a17f0667bbc391888d68ec5cb13b8d",
     ".git/objects/31/118a00b216d7a31edda68f2a036530e34f2edb",
+    ".git/objects/31/4d22494094db7abd98ef9e20a6f130862f5bf2",
     ".git/objects/31/f9f60f48fdc79111cc5bc0b2241f6865abc904",
     ".git/objects/32/1dbeade639812ca121675b59ee838dc3024641",
     ".git/objects/34/05a7a888b701eded2f9cef805804c1f44a1141",
@@ -826,6 +827,7 @@
     ".git/objects/7d/cdcbbdfca5f5ca0907ddb5adacf91662269bd2",
     ".git/objects/7e/3233fae66fedf752efded7b8984108d2a2754b",
     ".git/objects/7e/4f4b28472fa6fb9228a356a9daa45de0ee1c56",
+    ".git/objects/7e/8e6838f858d25c6645074f97181f71e5c73e4c",
     ".git/objects/7e/98013ebd9e8ef4884a1bf66d43acd3220acc5c",
     ".git/objects/7f/a1fce5765b1c06b6ee34b90ba9defa2fe0f6f7",
     ".git/objects/80/390591a2ff686e1c60d3267c2fe26b36daa4fe",
@@ -834,6 +836,7 @@
     ".git/objects/81/d01d0be4ae8495206c7f352004d3c2460ae46a",
     ".git/objects/82/fa36403589d9a821937f28b0f2b5d3f4f18e8f",
     ".git/objects/83/30463729dc167e95af319a1a4c553547666214",
+    ".git/objects/83/8fcf5d9373d3f81cff8664c20a71730df9aac7",
     ".git/objects/84/236ead57c0be3ba8a68e1ee184573d47123bbc",
     ".git/objects/85/8278a6e2fadb85260556c087abc75fad18e575",
     ".git/objects/87/0749e972465d0995c49db933e21c066cfb2fd3",
@@ -855,6 +858,7 @@
     ".git/objects/90/7af354d81c66e928615d7a90e9f09bac9c67aa",
     ".git/objects/91/11ffd2d2e99abe5c3d88cec25e49b2c213d7ba",
     ".git/objects/91/56ef92167573dfc706e686f37274f565bb59b9",
+    ".git/objects/91/91a929869d702bc88ef0d6ad0f8e4e2add233d",
     ".git/objects/91/9a042e92b859455f58ee0ac0940a093f8e32e2",
     ".git/objects/91/d21032256398de54f0575fdece9f132b36f782",
     ".git/objects/91/ddd3dac3a74e4fc856c23a28475a0cb93d1f36",
@@ -897,6 +901,7 @@
     ".git/objects/9e/987ffe40be6a9a9d0f3ca744511917e3a25bf8",
     ".git/objects/9e/ac08d3ecee8fb12d9e3b5354cd3e1c7767e640",
     ".git/objects/9e/c86ef36440e6f47411b87591efdd75ae613719",
+    ".git/objects/9f/165b99cd34d4c8339cbd9f9f748c9cadf81eec",
     ".git/objects/9f/1fcf9c9ce846e4a0c64ec334ef6d0a1cbefa6f",
     ".git/objects/9f/3f45a06f70f56ca9739322cd6d87fc816f13df",
     ".git/objects/9f/49d86dbf119ecbd2af17cca85097e645723ca6",
@@ -967,6 +972,7 @@
     ".git/objects/c1/4afa8fe5cf525d27a504319180af8baeae46b8",
     ".git/objects/c1/a911847a96592ad12cbbf42ffb40da1bcc04bf",
     ".git/objects/c2/9390f328602ef456152c3a7e4da648c50b4cc1",
+    ".git/objects/c3/4a0b6c39b68fe6d5baa40aec6c563f4ea0d124",
     ".git/objects/c3/53d01e6a8b562eaf09dce645a9bbb7e7c0d883",
     ".git/objects/c3/5e809f4307aa455e58943b4321951965b729bb",
     ".git/objects/c3/cbb5669ce15e8dc1cfc0748d2f43986affe55e",
@@ -1133,6 +1139,7 @@
     ".git/refs/tags/FW23.0.1-R1",
     ".git/refs/tags/FW23.0.1-R3",
     ".git/refs/tags/FW23.0.1-R5",
+    ".git/refs/tags/FW23.0.1-R8",
     ".gitignore",
     "AAA-NSPS/DBI English [01f394532d0e0000].nsp",
     "AAA-NSPS/aaa-nx-hbmenu [0156f6cc23220000].nsp",
@@ -1771,8 +1778,8 @@
     "update.bin"
   ],
   "scan_stats": {
-    "total_files_on_disk": 4175,
-    "included_files": 1383,
+    "total_files_on_disk": 4184,
+    "included_files": 1392,
     "excluded_files": 2792,
     "excluded_by_category": {
       "os-cruft": 5,
@@ -1804,6 +1811,6 @@
       "atmosphere/erpt_reports/3e55896d-ed88-be4e-54ac-0f248f4654d5"
     ],
     "detected_apps": 29,
-    "untagged_files": 1203
+    "untagged_files": 1212
   }
 }

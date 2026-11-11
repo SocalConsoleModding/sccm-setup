@@ -1,11 +1,11 @@
-# SCCM Setup FW23.0.1 R8
+# SCCM Setup FW23.5.0 R1
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **23.0.1**. Revision: **8**. Generated: 2026-11-10T23:28:53+00:00.
+Target firmware: **23.5.0**. Revision: **1**. Generated: 2026-11-11T15:19:33+00:00.
 
 ## Release notes
 
-fixes for DBI translation
+Updated for 23.5.0 support
 
 ## Included
 
@@ -13,7 +13,7 @@ fixes for DBI translation
 
 | App | Version | Source |
 |---|---|---|
-| Atmosphere | `1.12.1` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
+| Atmosphere | `1.12.2` | [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) |
 | Hekate | `v6.5.4` | [CTCaer/hekate](https://github.com/CTCaer/hekate) |
 
 ### Sysmodules
@@ -21,7 +21,7 @@ fixes for DBI translation
 | App | Version | Source |
 |---|---|---|
 | emuiibo | `1.1.3` | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) |
-| MissionControl | `v0.16.0` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
+| MissionControl | `v0.16.1` | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) |
 | sys-clk | `2.0.1` | [retronx-team/sys-clk](https://github.com/retronx-team/sys-clk) |
 
 ### Homebrew Apps
@@ -51,9 +51,9 @@ fixes for DBI translation
 | FPSLocker | `3.5.1` | [masagrator/FPSLocker](https://github.com/masagrator/FPSLocker) |
 | Quick-Reboot | `V2.2.0` | [eradicatinglove/Quick-Reboot](https://github.com/eradicatinglove/Quick-Reboot) |
 | QuickNTP | `1.6.0` | [nedex/QuickNTP](https://github.com/nedex/QuickNTP) |
-| Status Monitor Overlay | `v1.4.1+r4` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
+| Status Monitor Overlay | `v1.4.1+r5` | [ppkantorski/Status-Monitor-Overlay](https://github.com/ppkantorski/Status-Monitor-Overlay) |
 | Tesla Menu (ovlloader) | `v1.0.7` | [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) |
-| Ultrahand | `v2.5.3` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
+| Ultrahand | `v2.5.4` | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) |
 
 ### Bootloader Payloads
 
