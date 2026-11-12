@@ -1,11 +1,11 @@
-# SCCM Setup FW23.5.0 R2
+# SCCM Setup FW23.5.0 R4
 
 Curated Nintendo Switch SD card setup from [So-Cal Console Modding](https://socalconsolemodding.com).
-Target firmware: **23.5.0**. Revision: **2**. Generated: 2026-11-11T17:57:27+00:00.
+Target firmware: **23.5.0**. Revision: **4**. Generated: 2026-11-12T00:52:02+00:00.
 
 ## Release notes
 
-Updated for 23.5.0 support
+fixed DBI translation issue
 
 ## Included
 
@@ -31,7 +31,6 @@ Updated for 23.5.0 support
 | Breeze | `beta108.4c` | [tomvita/Breeze-Beta](https://github.com/tomvita/Breeze-Beta) |
 | Checkpoint | `v5.3.0` | [FlagBrew/Checkpoint](https://github.com/FlagBrew/Checkpoint) |
 | CyberFoil | `1.5.1` | [luketanti/CyberFoil](https://github.com/luketanti/CyberFoil) |
-| DBI (English) | `921` | [rashevskyv/DBIPatcher](https://github.com/rashevskyv/DBIPatcher) |
 | DBI (Russian) | `912ru` | [rashevskyv/dbi](https://github.com/rashevskyv/dbi) |
 | EdiZon | `v3.1.0` | [WerWolv/EdiZon](https://github.com/WerWolv/EdiZon) |
 | Goldleaf | `1.2.1` | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) |
